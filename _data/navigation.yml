@@ -1,17 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Page Test
-    url: /Page-test/
-  - title: Collections
+  - title: Our Rail Corridor
     collection: Collections
-  - title: Resource
+  - title: Enhancement Plans
+    url: /permalink
+  - title: Educational Resources
     resource_room: true
