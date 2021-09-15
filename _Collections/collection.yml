@@ -1,0 +1,5 @@
+collections:
+  Collections:
+    output: true
+    order:
+      - Pages.md
