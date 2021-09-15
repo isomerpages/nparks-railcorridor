@@ -11,13 +11,6 @@ locations:
     operating_hours: []
     maps_link: ""
     title: NParks Headquarters
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: ""
