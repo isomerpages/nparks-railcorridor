@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: National Parks
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
