@@ -26,7 +26,7 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
+      - email: ""
+      - other: www.nparks.gov.sg/feedback
     title: Careers
 ---
