@@ -29,5 +29,5 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      subtitle: Latest News
+      title: Latest News
 ---
