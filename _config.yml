@@ -1,4 +1,4 @@
-title: Title
+title: National Parks
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://nparks-test1-staging.netlify.app
 prod: https://nparks-test1-prod.netlify.app
+is_government: true
