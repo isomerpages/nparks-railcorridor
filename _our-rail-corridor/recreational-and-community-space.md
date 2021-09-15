@@ -1,4 +1,5 @@
 ---
-title: RECREATIONAL AND COMMUNITY SPACE
+title: Recreational and Community Space
 permalink: /our-rail-corridor/permalink
 ---
+
