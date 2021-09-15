@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Our Rail Corridor
       subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
-      background: /images/Hero%20Image.jpg
+      background: /images/hero-banner.png
       button: Learn More
       url: /contact-us/
       key_highlights:
