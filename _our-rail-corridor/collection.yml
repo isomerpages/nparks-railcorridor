@@ -2,5 +2,5 @@ collections:
   our-rail-corridor:
     output: true
     order:
-      - Pages.md
+      - heritage-and-culture.md
       - rail-corridor-central.md
