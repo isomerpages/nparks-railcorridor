@@ -1,5 +1,5 @@
 collections:
-  Collections:
+  our-rail-corridor:
     output: true
     order:
       - Pages.md
