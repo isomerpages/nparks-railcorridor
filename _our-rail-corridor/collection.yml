@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Pages.md
+      - rail-corridor-central.md
