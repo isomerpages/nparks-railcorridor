@@ -10,7 +10,7 @@ sections:
       title: Our Rail Corridor
       subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
       background: /images/hero-banner.png
-      button: Learn More
+      button: Plan Your Visit
       url: /contact-us/
       key_highlights:
         - title: Visit Rail Corridor
