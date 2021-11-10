@@ -2,7 +2,7 @@ collections:
   our-rail-corridor:
     output: true
     order:
-      - rail-corridor-central.md
+      - Visit Rail Corridor.md
       - heritage-and-culture.md
       - biodiversity-and-greenery.md
       - recreational-and-community-space.md
