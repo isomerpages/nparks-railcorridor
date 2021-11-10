@@ -13,15 +13,15 @@ sections:
       button: Learn More
       url: /contact-us/
       key_highlights:
+        - title: Visit Rail Corridor
+          description: ""
+          url: /privacy/
         - title: Enhancement Plans
           description: ""
           url: https://google.com
-        - title: Friends of Rail Corridor
+        - title: Biodiversity & Heritage
           description: ""
           url: https://gmail.com
-        - title: Educational Resources
-          description: ""
-          url: /privacy/
   - resources:
       title: Latest News
 ---
