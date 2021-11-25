@@ -26,10 +26,4 @@ sections:
           url: https://gmail.com
   - resources:
       title: Latest News
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
