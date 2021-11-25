@@ -4,7 +4,9 @@ title: National Parks  Rail Corridor (Central)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Due to enhancement works along the Rail Corridor, certain
+  stretches have been closed. Diverted routes are available for you to walk
+  along. Please visit ENHANCEMENT PLANS for more details.
 sections:
   - hero:
       title: Our Rail Corridor
@@ -24,4 +26,10 @@ sections:
           url: https://gmail.com
   - resources:
       title: Latest News
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
