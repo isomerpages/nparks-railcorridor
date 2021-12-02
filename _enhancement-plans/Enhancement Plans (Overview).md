@@ -4,9 +4,6 @@ permalink: /enhancement-plans/permalink
 description: ""
 image: /images/enhancement-plans-images/20190907_Panel%203_cropped.jpg
 ---
-
-
-
 There will be trail enhancement works throughout the 24km Rail Corridor. They will be progressively completed to ensure seamless connection by 2021.
 
 Please note that while the Rail Corridor is opened 24/7, there are no lighting along the Rail Corridor, except at major intersections, to facilitate movement of our nocturnal wildlife. 
