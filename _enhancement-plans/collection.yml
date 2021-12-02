@@ -2,5 +2,6 @@ collections:
   enhancement-plans:
     output: true
     order:
+      - Enhancement Plans (Rail Corridor North & South).md
       - Enhancement Plans (Rail Corridor Central).md
       - Enhancement Plans (Rail Corridor).md
