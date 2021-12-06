@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Visit Rail Corridor
           description: ""
-          url: /visit-rail-corridor/
+          url: /visit-rail-corridor/permalink
         - title: Enhancement Plans
           description: ""
           url: /enhancement-plans/overview
