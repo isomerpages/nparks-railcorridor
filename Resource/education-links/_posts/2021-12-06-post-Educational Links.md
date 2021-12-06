@@ -19,4 +19,4 @@ Designed by The Rail Explorers from Hwa Chong Institution, [THE RAIL CORRIDOR GU
 
 **RailWild**
 
-Developed by Tanvi Gupta, [RAILWILD](https://railwild.org/) introduces you to the world of local biodiversity through an easy identification interface. Covering 93 different species found along the Rail Corridor, RailWild guides users through the identification process by prompting them to making a series of observations, eventually leading to the species of interest.
+Developed by Tanvi Gupta, [RAILWILD](railwild.org/) introduces you to the world of local biodiversity through an easy identification interface. Covering 93 different species found along the Rail Corridor, RailWild guides users through the identification process by prompting them to making a series of observations, eventually leading to the species of interest.
