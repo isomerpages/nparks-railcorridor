@@ -13,14 +13,14 @@ sections:
       subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
       background: /images/rc%20rail%20photo.PNG
       button: Plan Your Visit
-      url: /contact-us/
+      url: /visit-rail-corridor/
       key_highlights:
         - title: Visit Rail Corridor
           description: ""
-          url: /privacy/
+          url: /visit-rail-corridor/
         - title: Enhancement Plans
           description: ""
-          url: https://google.com
+          url: /enhancement-plans/overview
         - title: Biodiversity & Heritage
           description: ""
           url: https://gmail.com
