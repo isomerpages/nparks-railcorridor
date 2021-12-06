@@ -1,0 +1,23 @@
+---
+title: Educational Links
+permalink: /Resource/education-links/permalink
+date: 2021-12-06
+layout: post
+description: Educational Resources for Rail Corridor
+image: /images/Chocolate%20Pansy_SBG_XF.JPG
+---
+
+Learn more about the Rail Corridor with these resources developed by the Friends of Rail Corridor. 
+
+**BioBlitz@Rail Corridor 2018**
+
+On 20 May 2018, the Friends of Rail Corridor conducted its first BioBlitz event at Rail Corridor (Central) as part of the Nationwide BioBlitz. Led by survey leaders from National University of Singapore, ButterflyCircle and BES Drongos, a [total of 73 species](https://www.nparks.gov.sg/-/media/images/rail-corridor/bioblitz-results.pdf) were sighted during the survey. 
+
+**The Rail Corridor Guide Sheet **
+
+Designed by The Rail Explorers from Hwa Chong Institution, [THE RAIL CORRIDOR GUIDE SHEET](https://www.nparks.gov.sg/-/media/images/rail-corridor/trifold-guidesheet.pdf) introduces you to the history, iconic sites, flora and fauna of the Rail Corridor. 
+
+
+**RailWild**
+
+Developed by Tanvi Gupta, [RAILWILD](https://railwild.org/) introduces you to the world of local biodiversity through an easy identification interface. Covering 93 different species found along the Rail Corridor, RailWild guides users through the identification process by prompting them to making a series of observations, eventually leading to the species of interest.
