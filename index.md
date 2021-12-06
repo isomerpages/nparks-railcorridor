@@ -13,7 +13,7 @@ sections:
       subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
       background: /images/rc%20rail%20photo.PNG
       button: Plan Your Visit
-      url: /visit-rail-corridor/
+      url: /visit-rail-corridor/permalink
       key_highlights:
         - title: Visit Rail Corridor
           description: ""
