@@ -23,7 +23,7 @@ sections:
           url: /enhancement-plans/overview
         - title: Biodiversity & Heritage
           description: ""
-          url: https://gmail.com
+          url: /biodiversity/
   - resources:
       title: Latest News
 ---
