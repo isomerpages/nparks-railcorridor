@@ -2,7 +2,7 @@ title: National Parks  Rail Corridor (Central)
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#7a9a01"
+  primary-color: "#3d8965"
   secondary-color: "#7f674e"
   media-colors:
     - title: media-color-one
@@ -10,7 +10,7 @@ colors:
     - title: media-color-two
       color: "#7a9a01"
     - title: media-color-three
-      color: "#7a9a01"
+      color: "#ff9e1b"
     - title: media-color-four
       color: "#3d8965"
     - title: media-color-five
