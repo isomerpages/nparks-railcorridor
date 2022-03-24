@@ -16,3 +16,6 @@ description: Rail Corridor Media Releases news
 
 22 March 2021
 [Rail Corridor: 8 features to check out at newly reopened 4km stretch](https://www.straitstimes.com/singapore/multiple-improvements-made-to-newly-reopened-4km-stretch-of-rail-corridor )
+
+25 January 2021
+[Escape into the rail world](https://www.straitstimes.com/multimedia/escape-into-the-rail-world)
