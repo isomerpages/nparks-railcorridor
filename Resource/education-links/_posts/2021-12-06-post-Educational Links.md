@@ -14,7 +14,7 @@ On 20 May 2018, the Friends of Rail Corridor conducted its first BioBlitz event 
 
 **The Rail Corridor Guide Sheet**
 
-Designed by The Rail Explorers from Hwa Chong Institution, [THE RAIL CORRIDOR GUIDE SHEET](https://www.nparks.gov.sg/-/media/images/rail-corridor/trifold-guidesheet.pdf) introduces you to the history, iconic sites, flora and fauna of the Rail Corridor. 
+Designed by The Rail Explorers from Hwa Chong Institution, [THE RAIL CORRIDOR GUIDE SHEET](https://www.nparks.gov.sg/-/media/rail-corridor/rc-resources/trifold-guidesheet.ashx) introduces you to the history, iconic sites, flora and fauna of the Rail Corridor. 
 
 
 **RailWild**
