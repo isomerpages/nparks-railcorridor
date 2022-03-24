@@ -11,6 +11,9 @@ description: Rail Corridor Media Releases news
 [NParks will add new access link from Holland Green Linear Park to Rail Corridor](https://www.straitstimes.com/singapore/environment/nparks-will-add-new-access-link-from-holland-green-linear-park-to-rail)
 
 22 March 2021
+[Restoring conserved truss bridges along Singapore's rail corridor to their former glory](https://www.straitstimes.com/singapore/restoring-conserved-truss-bridges-along-singapores-rail-corridor-to-their-former-glory)
+
+22 March 2021
 [Rail Corridor: 8 features to check out at newly reopened 4km stretch](https://www.straitstimes.com/singapore/multiple-improvements-made-to-newly-reopened-4km-stretch-of-rail-corridor )
 
 
