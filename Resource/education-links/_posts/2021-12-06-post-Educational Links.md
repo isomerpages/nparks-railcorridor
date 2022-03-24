@@ -10,7 +10,7 @@ Learn more about the Rail Corridor with these resources developed by the Friends
 
 **BioBlitz@Rail Corridor 2018**
 
-On 20 May 2018, the Friends of Rail Corridor conducted its first BioBlitz event at Rail Corridor (Central) as part of the Nationwide BioBlitz. Led by survey leaders from National University of Singapore, ButterflyCircle and BES Drongos, a [total of 73 species](https://www.nparks.gov.sg/-/media/images/rail-corridor/bioblitz-results.pdf) were sighted during the survey. 
+On 20 May 2018, the Friends of Rail Corridor conducted its first BioBlitz event at Rail Corridor (Central) as part of the Nationwide BioBlitz. Led by survey leaders from National University of Singapore, ButterflyCircle and BES Drongos, a [total of 73 species](https://www.nparks.gov.sg/-/media/rail-corridor/rc-resources/bioblitz-results.ashx) were sighted during the survey. 
 
 **The Rail Corridor Guide Sheet**
 
