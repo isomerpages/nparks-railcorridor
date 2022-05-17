@@ -15,30 +15,30 @@ Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse o
 
 | Common Name | Scientific Name | Location |
 | -------- | -------- | -------- |
-| Red Junglefowl/Chicken | Gallus sp. | Central |
-| Pink-necked Green Pigeon | Treron vernans | Central |
-| Pied Imperial Pigeon | Ducula bicolor | Central |
-| Square-tailed Drongo-cuckoo | Surniculus lugubris | Central |
-| Collared Kingfisher | Todiramphus chloris | Central |
-| Oriental Dollarbird | Eurystomus orientalis | Central |
-| Lineated Barbet | Megalaima lineata | Central |
-| Banded Woodpecker | Chrysophlegma miniaceum | Central |
-| Common Flameback | Dinopium javanense | Central |
-| Parakeet | Psittacula sp. | Central |
-| Blue-crowned Hanging Parrot | Loriculus galgulus | Central |
-| Common Iora | Aegithina tiphia | Central |
-| Pied Triller | Lalage nigra | Central |
-| Black-naped Oriole | Oriolus chinensis | Central |
-| Greater Racket-tailed Drongo | Dicrurus paradiseus | Central |
-| Pacific Swallow | Hirundo tahitica | Central |
-| Straw-headed Bulbul | Pycnonotus zeylanicus | Central |
-| Yellow-vented Bulbul | Pycnonotus goiavier | Central |
-| Dark-necked Tailorbird | Orthotomus atrogularis | Central |
-| Pin-striped Tit-babbler | Macronous gularis | Central |
-| Asian Glossy Starling | Aplonis panayensis | Central |
-| Common Hill Myna | Gracula religiosa | Central |
-| Javan Myna | Acridotheres javanicus | Central |
-| Scarlet-backed Flowerpecker | Dicaeum cruentatum | Central |
-| Eurasian Tree Sparrow | Passer montanus | Central |
-| Swiftlet sp. | Aerodramus/Collocalia sp. | Central |
-| Spotted Dove | Spilopelia chinensis | Central |
+| Red Junglefowl/Chicken | *Gallus* sp. | Central |
+| Pink-necked Green Pigeon | *Treron vernans* | Central |
+| Pied Imperial Pigeon | *Ducula bicolor* | Central |
+| Square-tailed Drongo-cuckoo | *Surniculus lugubris* | Central |
+| Collared Kingfisher | *Todiramphus chloris* | Central |
+| Oriental Dollarbird | *Eurystomus orientalis* | Central |
+| Lineated Barbet | *Megalaima lineata* | Central |
+| Banded Woodpecker | *Chrysophlegma miniaceum* | Central |
+| Common Flameback | *Dinopium javanense* | Central |
+| Parakeet | *Psittacula* sp. | Central |
+| Blue-crowned Hanging Parrot | *Loriculus galgulus* | Central |
+| Common Iora | *Aegithina tiphia* | Central |
+| Pied Triller | *Lalage nigra* | Central |
+| Black-naped Oriole | *Oriolus chinensis* | Central |
+| Greater Racket-tailed Drongo | *Dicrurus paradiseus* | Central |
+| Pacific Swallow | *Hirundo tahitica* | Central |
+| Straw-headed Bulbul | *Pycnonotus zeylanicus* | Central |
+| Yellow-vented Bulbul | *Pycnonotus goiavier* | Central |
+| Dark-necked Tailorbird | *Orthotomus atrogularis* | Central |
+| Pin-striped Tit-babbler | *Macronous gularis* | Central |
+| Asian Glossy Starling | *Aplonis panayensis* | Central |
+| Common Hill Myna | *Gracula religiosa* | Central |
+| Javan Myna | *Acridotheres javanicus* | Central |
+| Scarlet-backed Flowerpecker | *Dicaeum cruentatum* | Central |
+| Eurasian Tree Sparrow | *Passer montanus* | Central |
+| Swiftlet sp. | *Aerodramus/Collocalia* sp. | Central |
+| Spotted Dove | *Spilopelia chinensis* | Central |
