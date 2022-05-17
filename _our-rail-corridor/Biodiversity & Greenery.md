@@ -13,48 +13,47 @@ Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse o
 
 **Butterfly species list, 20 May 2018 BioBlitz**
 
-| Common Name | Scientific Name | Location |
-| -------- | -------- | -------- |
-| Baron | *Euthalia aconthea gurda* | Central |
-| Small Branded Swift | *Pelopidas mathias mathias* | Central |
-| Blue Glassy Tiger | *Ideopsis vulgaris macrina* | Central |
-| Lemon Emigrant | *Catopsilia pomona pomona* | Central |
-| Common Bluebottle | *Graphium sarpedon luctatius* | Central |
-| Chocolate Pansy | *Junonia hedonia ida* | Central |
-| Grass Yellow sp. | *Eurema* sp.  | Central |
-| Chocolate Grass Yellow | *Eurema sari sodalis* | Central |
-| Psyche | *Leptosia nina malayana* | Central |
-| Common Caerulean | *Jamides celeno aelianus* | Central |
-| Chestnut Bob | *Lambrix salsala salsala* | Central |
-| Common Mormon | *Papilio polytes romulus* | Central |
-| Malayan Eggfly | *Hypolimnas anomala anomala* | Central |
-| Common Hedge Blue | *Acytolepis puspa lambi* | Central |
-| Dark Brand Bush Brown | *Mycalesis mineus macromalayana* | Central |
-| Pygmy Grass Blue | *Zizula hylax pygmaea* | Central |
-| Chocolate Albatross | *Appias lyncida vasava* | Central |
-| Tawny Palmfly | *Elymnias panthera panthera* | Central |
-| Elbowed Pierrot | *Caleta elna elvira* | Central |
-| Horsfield's Baron | *Tanaecia iapis puseda* | Central |
-| Autumn Leaf | *Doleschallia bisaltide bisaltide* | Central |
-| Lascar sp. | - | Central |
-| Tailless Line Blue | *Prosotas dubiosa lumpura* | Central |
-| Malay Baron | *Euthalia monina monina* | Central |
-| Dark Glassy Tiger | *Parantica agleoides agleoides* | Central |
-| Lesser Grass Blue | *Zizina otis lampa* | Central |
-| Contiguous Swift | *Polytremis lubricans lubricans* | Central |
-| Common Awl | *Hasora badra badra* | Central |
-| Colour Sergeant | *Athyma nefte subrata* | Near Holland Road |
-| Plain Plushblue | *Flos apidanus saturatus* | Near Holland Road |
-| Yamfly | *Loxura atymnus fuconius* | Near the stream |
-| Five Bar Swordtail | *Pathysa antiphates itamputi* | Central |
-| Malay Tailed Judy | *Abisara savitri savitri* | Central |
-| Grey Pansy | *Junonia atlites atlites* | Central |
-| Tawny Coster | *Acraea violae* | Central |
-| Grass Yellow sp. | *Eurema* sp.  | Central |
-| Chocolate Pansy | *Junonia hedonia ida* | Central |
-| Blue Pansy | *Junonia orithya wallacei* | Central |
-| Common Bluebottle | *Graphium sarpedon luctatius* | Central |
-
+| Common Name | Scientific Name | Location | Date |
+| -------- | -------- | -------- |  -------- | 
+| Baron | Euthalia aconthea gurda | Central | 20 May 2018 |
+| Small Branded Swift | Pelopidas mathias mathias | Central | 20 May 2018 |
+| Blue Glassy Tiger | Ideopsis vulgaris macrina | Central | 20 May 2018 |
+| Lemon Emigrant | Catopsilia pomona pomona | Central | 20 May 2018 |
+| Common Bluebottle | Graphium sarpedon luctatius | Central | 20 May 2018 |
+| Chocolate Pansy | Junonia hedonia ida | Central | 20 May 2018 |
+| Grass Yellow sp. | Eurema sp.  | Central | 20 May 2018 |
+| Chocolate Grass Yellow | Eurema sari sodalis | Central | 20 May 2018 |
+| Psyche | Leptosia nina malayana | Central | 20 May 2018 |
+| Common Caerulean | Jamides celeno aelianus | Central | 20 May 2018 |
+| Chestnut Bob | Iambrix salsala salsala | Central | 20 May 2018 |
+| Common Mormon | Papilio polytes romulus | Central | 20 May 2018 |
+| Malayan Eggfly | Hypolimnas anomala anomala | Central | 20 May 2018 |
+| Common Hedge Blue | Acytolepis puspa lambi | Central | 20 May 2018 |
+| Dark Brand Bush Brown | Mycalesis mineus macromalayana | Central | 20 May 2018 |
+| Pygmy Grass Blue | Zizula hylax pygmaea | Central | 20 May 2018 |
+| Chocolate Albatross | Appias lyncida vasava | Central | 20 May 2018 |
+| Tawny Palmfly | Elymnias panthera panthera | Central | 20 May 2018 |
+| Elbowed Pierrot | Caleta elna elvira | Central | 20 May 2018 |
+| Horsfield's Baron | Tanaecia iapis puseda | Central | 20 May 2018 |
+| Autumn Leaf | Doleschallia bisaltide bisaltide | Central | 20 May 2018 |
+| Lascar sp. | - | Central | 20 May 2018 |
+| Tailless Line Blue | Prosotas dubiosa lumpura | Central | 20 May 2018 |
+| Malay Baron | Euthalia monina monina | Central | 20 May 2018 |
+| Dark Glassy Tiger | Parantica agleoides agleoides | Central | 20 May 2018 |
+| Lesser Grass Blue | Zizina otis lampa | Central | 20 May 2018 |
+| Contiguous Swift | Polytremis lubricans lubricans | Central | 20 May 2018 |
+| Common Awl | Hasora badra badra | Central |  |
+| Colour Sergeant | Athyma nefte subrata | Near Holland Road |  |
+| Plain Plushblue | Flos apidanus saturatus | Near Holland Road |  |
+| Yamfly | Loxura atymnus fuconius | Near the stream | 06 Mar 2019 |
+| Five Bar Swordtail | Pathysa antiphates itamputi | Central | 20 Mar 2019 |
+| Malay Tailed Judy | Abisara savitri savitri | Central | 25 Mar 2019 |
+| Grey Pansy | Junonia atlites atlites | Central | 26 Mar 2019 |
+| Tawny Coster | Acraea violae | Central | 12 Apr 2019 |
+| Grass Yellow sp. | Eurema sp.  | Central | 13 Apr 2019 |
+| Chocolate Pansy | Junonia hedonia ida | Central | 14 Apr 2019 |
+| Blue Pansy | Junonia orithya wallacei | Central | 15 Apr 2019 |
+| Common Bluebottle | Graphium sarpedon luctatius | Central | 07 May 2019 |
 
 **Dragonfly species list, 20 May 2018 BioBlitz**
 
