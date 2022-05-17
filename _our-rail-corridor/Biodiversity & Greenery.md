@@ -22,58 +22,30 @@ To find out more about BioBlitz, [click here.](https://www.nparks.gov.sg/biodive
 
 | **Common Name | Scientific Name | Location** |
 | -------- | -------- | -------- |
-| Red Junglefowl/Chicken |  Gallus sp.
-Treron vernans
-Ducula bicolor
-Surniculus lugubris
-Todiramphus chloris
-Eurystomus orientalis
-Megalaima lineata
-Chrysophlegma miniaceum
-Dinopium javanense
-Psittacula sp.
-Loriculus galgulus
-Aegithina tiphia
-Lalage nigra
-Oriolus chinensis
-Dicrurus paradiseus
-Hirundo tahitica
-Pycnonotus zeylanicus
-Pycnonotus goiavier
-Orthotomus atrogularis
-Macronous gularis
-Aplonis panayensis
-Gracula religiosa
-Acridotheres javanicus
-Dicaeum cruentatum
-Passer montanus
-Aerodramus/Collocalia sp.
-Spilopelia chinensis
-  | Text     |
-Pink-necked Green Pigeon
-Pied Imperial Pigeon
-Square-tailed Drongo-cuckoo
-Collared Kingfisher
-Oriental Dollarbird
-Lineated Barbet
-Banded Woodpecker
-Common Flameback
-Parakeet
-Blue-crowned Hanging Parrot
-Common Iora
-Pied Triller
-Black-naped Oriole
-Greater Racket-tailed Drongo
-Pacific Swallow
-Straw-headed Bulbul
-Yellow-vented Bulbul
-Dark-necked Tailorbird
-Pin-striped Tit-babbler
-Asian Glossy Starling
-Common Hill Myna
-Javan Myna
-Scarlet-backed Flowerpecker
-Eurasian Tree Sparrow
-Swiftlet sp.
-Spotted Dove   
-
+| Red Junglefowl/Chicken | Gallus sp. | Central |
+| Pink-necked Green Pigeon | Treron vernans | Central |
+| Pied Imperial Pigeon | Ducula bicolor | Central |
+| Square-tailed Drongo-cuckoo | Surniculus lugubris | Central |
+| Collared Kingfisher | Todiramphus chloris | Central |
+| Oriental Dollarbird | Eurystomus orientalis | Central |
+| Lineated Barbet | Megalaima lineata | Central |
+| Banded Woodpecker | Chrysophlegma miniaceum | Central |
+| Common Flameback | Dinopium javanense | Central |
+| Parakeet | Psittacula sp. | Central |
+| Blue-crowned Hanging Parrot | Loriculus galgulus | Central |
+| Common Iora | Aegithina tiphia | Central |
+| Pied Triller | Lalage nigra | Central |
+| Black-naped Oriole | Oriolus chinensis | Central |
+| Greater Racket-tailed Drongo | Dicrurus paradiseus | Central |
+| Pacific Swallow | Hirundo tahitica | Central |
+| Straw-headed Bulbul | Pycnonotus zeylanicus | Central |
+| Yellow-vented Bulbul | Pycnonotus goiavier | Central |
+| Dark-necked Tailorbird | Orthotomus atrogularis | Central |
+| Pin-striped Tit-babbler | Macronous gularis | Central |
+| Asian Glossy Starling | Aplonis panayensis | Central |
+| Common Hill Myna | Gracula religiosa | Central |
+| Javan Myna | Acridotheres javanicus | Central |
+| Scarlet-backed Flowerpecker | Dicaeum cruentatum | Central |
+| Eurasian Tree Sparrow | Passer montanus | Central |
+| Swiftlet sp. | Aerodramus/Collocalia sp. | Central |
+| Spotted Dove | Spilopelia chinensis | Central |
