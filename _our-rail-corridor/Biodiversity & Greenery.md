@@ -11,8 +11,7 @@ To find out more about BioBlitz, [click here.](https://www.nparks.gov.sg/biodive
 
 Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse our online database for plants and animals found in Singapore.
 
-Date of Bioblitz: 23 May 2018
-Birds species list****
+**BioBlitz Birds species list, 23 May 2018**
 
 | Common Name | Scientific Name | Location |
 | -------- | -------- | -------- |
