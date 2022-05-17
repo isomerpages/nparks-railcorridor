@@ -11,7 +11,7 @@ A biodiversity survey known as the BioBlitz, was conducted on May 2018 to docume
 
 To find out more about BioBlitz, [click here.](https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/bioblitz)
 
-Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse our online database for plants and animals found in Singapore
+Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse our online database for plants and animals found in Singapore.
 
 | **Common Name | Scientific Name | Date | Location** |
 
