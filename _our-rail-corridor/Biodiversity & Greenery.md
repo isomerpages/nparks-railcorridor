@@ -15,46 +15,76 @@ Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse o
 
 | Common Name | Scientific Name | Location |
 | -------- | -------- | -------- |
-| Baron | Euthalia aconthea gurda | Central |
-| Small Branded Swift | Pelopidas mathias mathias | Central |
-| Blue Glassy Tiger | Ideopsis vulgaris macrina | Central |
-| Lemon Emigrant | Catopsilia pomona pomona | Central |
-| Common Bluebottle | Graphium sarpedon luctatius | Central |
-| Chocolate Pansy | Junonia hedonia ida | Central |
-| Grass Yellow sp. | Eurema sp.  | Central |
-| Chocolate Grass Yellow | Eurema sari sodalis | Central |
-| Psyche | Leptosia nina malayana | Central |
-| Common Caerulean | Jamides celeno aelianus | Central |
-| Chestnut Bob | Iambrix salsala salsala | Central |
-| Common Mormon | Papilio polytes romulus | Central |
-| Malayan Eggfly | Hypolimnas anomala anomala | Central |
-| Common Hedge Blue | Acytolepis puspa lambi | Central |
-| Dark Brand Bush Brown | Mycalesis mineus macromalayana | Central |
-| Pygmy Grass Blue | Zizula hylax pygmaea | Central |
-| Chocolate Albatross | Appias lyncida vasava | Central |
-| Tawny Palmfly | Elymnias panthera panthera | Central |
-| Elbowed Pierrot | Caleta elna elvira | Central |
-| Horsfield's Baron | Tanaecia iapis puseda | Central |
-| Autumn Leaf | Doleschallia bisaltide bisaltide | Central |
+| Baron | *Euthalia aconthea gurda* | Central |
+| Small Branded Swift | *Pelopidas mathias mathias* | Central |
+| Blue Glassy Tiger | *Ideopsis vulgaris macrina* | Central |
+| Lemon Emigrant | *Catopsilia pomona pomona* | Central |
+| Common Bluebottle | *Graphium sarpedon luctatius* | Central |
+| Chocolate Pansy | *Junonia hedonia ida* | Central |
+| Grass Yellow sp. | *Eurema* sp.  | Central |
+| Chocolate Grass Yellow | *Eurema sari sodalis* | Central |
+| Psyche | *Leptosia nina malayana* | Central |
+| Common Caerulean | *Jamides celeno aelianus* | Central |
+| Chestnut Bob | *Lambrix salsala salsala* | Central |
+| Common Mormon | *Papilio polytes romulus* | Central |
+| Malayan Eggfly | *Hypolimnas anomala anomala* | Central |
+| Common Hedge Blue | *Acytolepis puspa lambi* | Central |
+| Dark Brand Bush Brown | *Mycalesis mineus macromalayana* | Central |
+| Pygmy Grass Blue | *Zizula hylax pygmaea* | Central |
+| Chocolate Albatross | *Appias lyncida vasava* | Central |
+| Tawny Palmfly | *Elymnias panthera panthera* | Central |
+| Elbowed Pierrot | *Caleta elna elvira* | Central |
+| Horsfield's Baron | *Tanaecia iapis puseda* | Central |
+| Autumn Leaf | *Doleschallia bisaltide bisaltide* | Central |
 | Lascar sp. | - | Central |
-| Tailless Line Blue | Prosotas dubiosa lumpura | Central |
-| Malay Baron | Euthalia monina monina | Central |
-| Dark Glassy Tiger | Parantica agleoides agleoides | Central |
-| Lesser Grass Blue | Zizina otis lampa | Central |
-| Contiguous Swift | Polytremis lubricans lubricans | Central |
-| Common Awl | Hasora badra badra | Central |
-| Colour Sergeant | Athyma nefte subrata | Near Holland Road |
-| Plain Plushblue | Flos apidanus saturatus | Near Holland Road |
-| Yamfly | Loxura atymnus fuconius | Near the stream |
-| Five Bar Swordtail | Pathysa antiphates itamputi | Central |
-| Malay Tailed Judy | Abisara savitri savitri | Central |
-| Grey Pansy | Junonia atlites atlites | Central |
-| Tawny Coster | Acraea violae | Central |
-| Grass Yellow sp. | Eurema sp.  | Central |
-| Chocolate Pansy | Junonia hedonia ida | Central |
-| Blue Pansy | Junonia orithya wallacei | Central |
-| Common Bluebottle | Graphium sarpedon luctatius | Central |
+| Tailless Line Blue | *Prosotas dubiosa lumpura* | Central |
+| Malay Baron | *Euthalia monina monina* | Central |
+| Dark Glassy Tiger | *Parantica agleoides agleoides* | Central |
+| Lesser Grass Blue | *Zizina otis lampa* | Central |
+| Contiguous Swift | *Polytremis lubricans lubricans* | Central |
+| Common Awl | *Hasora badra badra* | Central |
+| Colour Sergeant | *Athyma nefte subrata* | Near Holland Road |
+| Plain Plushblue | *Flos apidanus saturatus* | Near Holland Road |
+| Yamfly | *Loxura atymnus fuconius* | Near the stream |
+| Five Bar Swordtail | *Pathysa antiphates itamputi* | Central |
+| Malay Tailed Judy | *Abisara savitri savitri* | Central |
+| Grey Pansy | *Junonia atlites atlites* | Central |
+| Tawny Coster | *Acraea violae* | Central |
+| Grass Yellow sp. | *Eurema* sp.  | Central |
+| Chocolate Pansy | *Junonia hedonia ida* | Central |
+| Blue Pansy | *Junonia orithya wallacei* | Central |
+| Common Bluebottle | *Graphium sarpedon luctatius* | Central |
 
+
+**Dragonfly species list, 20 May 2018 BioBlitz**
+
+| Common Name | Scientific Name | Location |
+| -------- | -------- | -------- |
+| Indigo Dropwing | Trithemis festiva | Central |
+| Spine-tufted Skimmer | Orchithemis chrysis | Central |
+| Blue Skimmer | Orthetrum glaucum | Central |
+| Slender Blue Skimmer | Orthetrum luzonicum | Central |
+| Crescent Threadtail | Prodasineura notostigma | Central |
+| Ornate Coraltail | Ceriagrion cerinorubellum | Central |
+| Common Parasol | Neurothemis fluctuans | Central |
+| Variable Wisp | Agriocnemis femina | Central |
+| Blue Dasher | Brachydiplax chalybea | Central |
+| Trumpet Tail | Acisoma panorpoides | Central |
+| Blue Sprite | Pseudagrion microcephalum | Central |
+
+
+**Other animals species list, 20 May 2018 BioBlitz**
+
+| Common Name | Scientific Name | Location |
+| -------- | -------- | -------- |
+| Long-Tailed Macaque | Macaca fascicularis | Central |
+| Plaintain Squirrel | Callosciurus notatus | Central |
+| Malayan Monitor Lizard | Varanus salvator | Central |
+| Changeable Lizard | Calotes versicolor | Central |
+| Giant African Land Snail | Achatina fulica | Central |
+| Golden Tortoise Beetle | Aspidimorpha miliaris | Central |
+| Asian Honey Bee | Apis cerana | Central |
+| Common Palm Civet (scat) | Paradoxus hermaphroditus | Central |
 
 
 
