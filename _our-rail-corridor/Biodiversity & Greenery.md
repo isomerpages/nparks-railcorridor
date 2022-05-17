@@ -60,31 +60,31 @@ Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse o
 
 | Common Name | Scientific Name | Location |
 | -------- | -------- | -------- |
-| Indigo Dropwing | Trithemis festiva | Central |
-| Spine-tufted Skimmer | Orchithemis chrysis | Central |
-| Blue Skimmer | Orthetrum glaucum | Central |
-| Slender Blue Skimmer | Orthetrum luzonicum | Central |
-| Crescent Threadtail | Prodasineura notostigma | Central |
-| Ornate Coraltail | Ceriagrion cerinorubellum | Central |
-| Common Parasol | Neurothemis fluctuans | Central |
-| Variable Wisp | Agriocnemis femina | Central |
-| Blue Dasher | Brachydiplax chalybea | Central |
-| Trumpet Tail | Acisoma panorpoides | Central |
-| Blue Sprite | Pseudagrion microcephalum | Central |
+| Indigo Dropwing | *Trithemis festiva* | Central |
+| Spine-tufted Skimmer | *Orchithemis chrysis* | Central |
+| Blue Skimmer | *Orthetrum glaucum* | Central |
+| Slender Blue Skimmer | *Orthetrum luzonicum* | Central |
+| Crescent Threadtail | *Prodasineura notostigma* | Central |
+| Ornate Coraltail | *Ceriagrion cerinorubellum* | Central |
+| Common Parasol | *Neurothemis fluctuans* | Central |
+| Variable Wisp | *Agriocnemis femina* | Central |
+| Blue Dasher | *Brachydiplax chalybea* | Central |
+| Trumpet Tail | *Acisoma panorpoides* | Central |
+| Blue Sprite | *Pseudagrion microcephalum* | Central |
 
 
 **Other animals species list, 20 May 2018 BioBlitz**
 
 | Common Name | Scientific Name | Location |
 | -------- | -------- | -------- |
-| Long-Tailed Macaque | Macaca fascicularis | Central |
-| Plaintain Squirrel | Callosciurus notatus | Central |
-| Malayan Monitor Lizard | Varanus salvator | Central |
-| Changeable Lizard | Calotes versicolor | Central |
-| Giant African Land Snail | Achatina fulica | Central |
-| Golden Tortoise Beetle | Aspidimorpha miliaris | Central |
-| Asian Honey Bee | Apis cerana | Central |
-| Common Palm Civet (scat) | Paradoxus hermaphroditus | Central |
+| Long-Tailed Macaque | *Macaca fascicularis* | Central |
+| Plaintain Squirrel | *Callosciurus notatus* | Central |
+| Malayan Monitor Lizard | *Varanus salvator* | Central |
+| Changeable Lizard | *Calotes versicolor* | Central |
+| Giant African Land Snail | *Achatina fulica* | Central |
+| Golden Tortoise Beetle | *Aspidimorpha miliaris* | Central |
+| Asian Honey Bee | *Apis cerana* | Central |
+| Common Palm Civet (scat) | *Paradoxus hermaphroditus* | Central |
 
 
 
