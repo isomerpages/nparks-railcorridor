@@ -5,6 +5,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/webpageinprogress.png)
 
+![truss bridge rail corridor](/images/RC%20Central/Central_truss_IMG-20210114-WA0022.jpg)
+
 The Rail Corridor was formerly known as the Keretapi Tanah Melayu (KTM) Railway Line, and was used as a mode of transportation between Singapore and Malaysia in the early 1900s.
 
 to review: recommended heritage structures/landmarks + photo + short description?
@@ -20,3 +22,7 @@ to review: recommended heritage structures/landmarks + photo + short description
 
 **Rail Corridor South**
 Tanjong Pagar Railway Station
+
+references:
+
+https://stateofbuildings.sg/places/the-rail-corridor
