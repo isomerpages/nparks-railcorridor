@@ -3,6 +3,8 @@ title: Heritage & Culture
 permalink: /heritageculture/
 description: ""
 ---
+Proposed to hide this page first until contents are finalised.
+
 ![Alt text for image on Isomer site](/images/webpageinprogress.png)
 
 ![truss bridge rail corridor](/images/RC%20Central/Central_truss_IMG-20210114-WA0022.jpg)
