@@ -15,7 +15,7 @@ Due to enhancement works along the Rail Corridor, certain stretches have been cl
 **Rail Corridor North and South**
 ![rail corridor north](/images/RC%20North/RC%20North%20Map_07012022.jpg)
 
-![rail corridor south](/images/enhancement-plans-images/RC%20South%20Map_Oct%202021.jpg)
+![rc south](/images/RC%20South/RC%20South%20Map_Oct%202021.jpg)
 
 Let's be socially responsible and let everyone enjoy our green spaces!
 ![](/images/Rail%20Corridor_pls%20dismount.png)
