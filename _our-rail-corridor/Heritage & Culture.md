@@ -9,10 +9,6 @@ description: ""
 
 Enhancements are being done to the railway heritage structures to preserve the cultural heritage as well as to improve public access to these sites.
 
-Biodiversity and Greenery: Distinctive landscape experiences for visitors, and strengthened ecological connection between green spaces.
-
-Recreation: An inclusive hub with open spaces that cater to a range of recreational activities and needs of different users.
-
 The Rail Corridor was formerly known as the Keretapi Tanah Melayu (KTM) Railway Line, and was used as a mode of transportation between Singapore and Malaysia in the early 1900s.
 
 to review: recommended heritage structures/landmarks + photo + short description?
