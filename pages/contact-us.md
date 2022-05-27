@@ -17,9 +17,4 @@ contacts:
       - email: ""
       - other: www.nparks.gov.sg/feedback
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: www.nparks.gov.sg/feedback
-    title: Careers
 ---
