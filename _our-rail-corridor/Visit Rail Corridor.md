@@ -9,5 +9,8 @@ If you're cycling at the Rail Corridor, please note the **10km/h speed limit**. 
  
 Due to enhancement works along the Rail Corridor, certain stretches have been closed. Diverted routes are available for you to walk along. Please [visit this page](https://nparks-test1-staging.netlify.app/enhancement-plans/overview) for the latest updates and maps to guide your journey on the Rail Corridor.
 
+**Rail Corridor (Central) Access Points**
+![rc central](/images/RC%20Central%20jpg.jpg)
+
 Let's be socially responsible and let everyone enjoy our green spaces!
 ![](/images/Rail%20Corridor_pls%20dismount.png)
