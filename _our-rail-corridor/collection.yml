@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Visit Rail Corridor.md
-      - Heritage & Culture.md
+      - Heritage & Culture (to hide).md
       - Biodiversity & Greenery.md
       - Recreational & Community Space.md
