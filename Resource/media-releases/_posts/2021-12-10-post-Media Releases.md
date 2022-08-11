@@ -5,6 +5,10 @@ date: 2021-12-10
 layout: post
 description: Rail Corridor Media Releases news
 ---
+01 July 2022 [5 must-sees at Bukit Timah Railway Station's new community space](https://www.channelnewsasia.com/singapore/restored-bukit-timah-railway-station-five-features-2785016)
+
+01 July 2022 [Restored Bukit Timah Railway Station opens to the public, providing new community space](https://www.channelnewsasia.com/singapore/restored-bukit-timah-railway-station-opens-public-providing-new-community-space-2784441)
+
 10 July 2021
 [NParks will add new access link from Holland Green Linear Park to Rail Corridor](https://www.straitstimes.com/singapore/environment/nparks-will-add-new-access-link-from-holland-green-linear-park-to-rail)
 
