@@ -5,7 +5,7 @@ description: Rail Corridor Bukit Timah Railway Station
 ---
 The Bukit Timah Railway Station community node is now open.
 
-insert image
+![rail corridor btrs]()
 
 **How to get there:**
 
@@ -15,6 +15,8 @@ Alight at King Albert Park MRT Station, along Bukit Timah Road (bus stop ID: 420
   
 By MRT: Alight at King Albert Park MRT Station, Exit A  
 Upon exiting the MRT station, turn left and walk along Bukit Timah Road for 5 minutes. You will be greeted by a landscaped entrance point to lead you into the Rail Corridor.
+
+![rc entrance](/images/RC%20Entrance.png)
 
 **Parking information:**  
 There is no carpark at the Bukit Timah Railway Station community node. You are encouraged to visit via public transport.  
