@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: National Parks
+agency_name: National Parks Board
 locations:
   - address:
       - National Parks Board HQ
@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: www.nparks.gov.sg/feedback
-    title: General Enquiries & Feedback
+      - other: https://www.nparks.gov.sg/feedback
+    title: "General Enquiries & Feedback "
 ---
