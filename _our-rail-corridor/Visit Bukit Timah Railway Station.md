@@ -30,4 +30,4 @@ The Bukit Timah Railway Station community node is wheelchair accessible.
 **Notice:**  
  A section of the Bukit Timah Railway Station building is closed for maintenance works.  Visitors are still able to view the signal room and waiting area.
 
-Click [HERE](https://www.nparks.gov.sg/railcorridor/opening-of-bukit-timah-railway-station) for more information on Bukit Timah Railway Station and the layout plan.
+Click [HERE](https://nparks-test1-staging.netlify.app/resource/resource-categories/permalink) for more information on Bukit Timah Railway Station and the layout plan.
