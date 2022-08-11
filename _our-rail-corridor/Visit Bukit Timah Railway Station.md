@@ -5,7 +5,7 @@ description: Rail Corridor Bukit Timah Railway Station
 ---
 The Bukit Timah Railway Station community node is now open.
 
-![rail corridor btrs]()
+![rc btrs](/images/BTRS.png)
 
 **How to get there:**
 
