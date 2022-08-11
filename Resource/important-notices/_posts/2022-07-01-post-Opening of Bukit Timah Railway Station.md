@@ -24,7 +24,7 @@ In the building, you can see restored elements like track switching levers, tick
 To the front of the building, you can find more restored features, such as station signs, token poles, and replicas of railway station wagons that once plied the tracks.
 
 
-**Railway Staff Quarters **
+**Railway Staff Quarters**
 ![railway staff quarters](/images/Railway%20Staff%20Quarters.png)
 
 The conserved Railway Staff Quarters is a former staff housing block which has been repurposed into a café, called ['1932 STORY'](https://www.instagram.com/1932story/) with a rustic, relaxed ambience. Key architectural elements of the building were also restored, and improvements made to make the building more accessible.
