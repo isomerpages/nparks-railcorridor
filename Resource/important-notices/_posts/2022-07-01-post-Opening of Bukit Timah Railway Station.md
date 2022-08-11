@@ -17,7 +17,7 @@ The community node comprises of the following:
 For more information on the layout plan, click HERE.
 
 **Bukit Timah Railway Station**
-![BTRS]()
+![btrs](/images/BTRS.png)
 The conserved Bukit Timah Railway Station building was built in 1932 and is one of two extant railway stations in Singapore. Along with its key architectural and railway elements, the railway station has been sensitively and carefully restored and repurposed as a heritage gallery for visitors to learn about its history and that of the Rail Corridor.
 
 In the building, you can see restored elements like track switching levers, ticketing booth, and a replica of a signals diagram in the Signal Room, which former Station Masters used to control rail traffic. Do note that entry to the Signal Room is not allowed, but you can observe its interior from the entrance.
@@ -47,7 +47,7 @@ The Herb and Spice Garden showcases plants like Siamese Ginger (*Zingiber offici
 
 A new sheltered Yard serves as a rest area and gathering point, with public restrooms that simulate rustic toilets found in the old days. The Yard also features an educational board that shares with visitors the history of the railway.
 
-Click HERE for more information on how to visit the Bukit Timah Railway Station community node.
+Click [HERE](https://nparks-test1-staging.netlify.app/our-rail-corridor/permalink) for more information on how to visit the Bukit Timah Railway Station community node.
 
 Please refer to the map below to guide your journey into the Rail Corridor.
 
