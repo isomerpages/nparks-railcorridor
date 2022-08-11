@@ -47,7 +47,7 @@ The Herb and Spice Garden showcases plants like Siamese Ginger (*Zingiber offici
 
 A new sheltered Yard serves as a rest area and gathering point, with public restrooms that simulate rustic toilets found in the old days. The Yard also features an educational board that shares with visitors the history of the railway.
 
-Click [HERE](https://nparks-test1-staging.netlify.app/our-rail-corridor/permalink) for more information on how to visit the Bukit Timah Railway Station community node.
+Click [HERE](https://nparks-test1-staging.netlify.app/resource/resource-categories/permalink) for more information on how to visit the Bukit Timah Railway Station community node.
 
 Please refer to the map below to guide your journey into the Rail Corridor.
 
