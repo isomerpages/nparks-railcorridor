@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: National Parks  Rail Corridor (Central)
-description: Brief site description here
+title: National Parks Rail Corridor (Central)
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Due to enhancement works along the Rail Corridor, certain
@@ -27,3 +27,4 @@ sections:
   - resources:
       title: Latest News
 ---
+
