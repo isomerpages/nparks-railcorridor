@@ -1,4 +1,4 @@
-title: National Parks  Rail Corridor (Central)
+title: National Parks Rail Corridor (Central)
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -53,3 +53,7 @@ plugins:
 staging: https://nparks-test1-staging.netlify.app
 prod: https://nparks-test1-prod.netlify.app
 is_government: true
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
