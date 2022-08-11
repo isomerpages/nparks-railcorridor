@@ -2,8 +2,8 @@ collections:
   our-rail-corridor:
     output: true
     order:
-      - Visit Bukit Timah Railway Station.md
       - Visit Rail Corridor.md
-      - Heritage & Culture (to hide).md
+      - Visit Bukit Timah Railway Station.md
       - Biodiversity & Greenery.md
+      - Heritage & Culture (to hide).md
       - Recreational & Community Space (to hide).md
