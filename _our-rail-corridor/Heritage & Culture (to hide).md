@@ -3,8 +3,7 @@ title: Heritage & Culture (to hide)
 permalink: /heritageculture/
 description: ""
 ---
-
-Proposed to hide this page first until contents are finalised.
+RC team proposed to hide this page first until contents are finalised.
 
 ![Alt text for image on Isomer site](/images/webpageinprogress.png)
 
