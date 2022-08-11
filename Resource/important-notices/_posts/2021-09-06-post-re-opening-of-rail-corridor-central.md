@@ -4,12 +4,10 @@ date: 2021-09-06
 permalink: /Resource/Resource-Categories/permalink
 layout: post
 ---
-The Rail Corridor (Central) is now officially re-opened!
+Two more sections of the Rail Corridor (North) are closed for improvement works from 6 June 2022. Please use the alternative routes along Woodlands Road. Works are expected to be completed by 31 December 2022.
 
-Since July 2019, the stretch between the Upper Bukit Timah truss bridge and Bukit Timah truss bridge was closed for trail enhancement works. The truss bridges also underwent refurbishment to improve its durability, safety, and acccessibility.
+For more information on closure of trail between Kranji Road and Kranji MRT, please [HERE](/files/31%20May%202022%20Closure%20Notice%20for%20Rail%20Corridor%20North%20Phase%206%20(002).pdf).
 
-The enhanced trail now contains various improvements, including the introduction of new and enhanced visitor access points, sensitive restoration of heritage landmarks and the restoration of a belt of native forest as an important passage, habitat, and source of food for Singapore's native fauna, particularly those from the nearby Bukit Timah Nature Reserve. This improves access of the corridor, allowing users of all abilities to enjoy this unique green space, while conserving its built heritage for future generations to enjoy.
+For more information on closure of trail between Sungei Kadut and Kranji Road, please [HERE](/files/31%20May%202022%20Closure%20Notice%20for%20Rail%20Corridor%20North%20Phase%205%20(002).pdf).
 
-You may refer to the map below for the access points along the Rail Corridor (Central).
-
-You may also refer to the map HERE to check out which stretches are opened/closed. Please note that while the Rail Corridor is opened 24/7, there are no lighting along the Rail Corridor, except at major intersections, to facilitate movement of our nocturnal wildlife. 
+If you have any queries, please contact *Amanda_Ng@nparks.gov.sg*, *Rachel_Loh@nparks.gov.sg* or *Margarette_CHANG@nparks.gov.sg*.
