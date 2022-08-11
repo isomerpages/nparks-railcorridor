@@ -14,7 +14,7 @@ The community node comprises of the following:
 * Yard shelter with a toilet block
 * An event lawn 
 
-For more information on the layout plan, click [HERE]() .
+For more information on the layout plan, click [HERE].(/files/BTRS%20Map%20PDF_120722.pdf) .
 
 **Bukit Timah Railway Station**
 ![btrs](/images/BTRS.png)
