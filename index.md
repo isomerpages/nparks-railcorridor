@@ -18,13 +18,12 @@ sections:
         - title: Visit Rail Corridor
           description: ""
           url: /visit-rail-corridor/permalink
+        - title: Visit Bukit Timah Railway Station
+          description: ""
+          url: /bukit-timah-railway-station/overview
         - title: Enhancement Plans
           description: ""
           url: /enhancement-plans/overview
-        - title: Biodiversity & Heritage
-          description: ""
-          url: /biodiversity/
   - resources:
       title: Latest News
 ---
-
