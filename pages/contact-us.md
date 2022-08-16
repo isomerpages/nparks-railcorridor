@@ -11,10 +11,4 @@ locations:
     operating_hours: []
     maps_link: ""
     title: NParks Headquarters
-contacts:
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://www.nparks.gov.sg/feedback
-    title: "General Enquiries & Feedback "
 ---
