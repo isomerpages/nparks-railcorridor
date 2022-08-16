@@ -6,7 +6,7 @@ links:
     collection: enhancement-plans
   - title: Resources
     resource_room: true
+  - title: "Contact "
+    url: /contact/
   - title: Contact Us
     url: /contact-us/
-  - title: Contact Us2
-    url: /permalink
