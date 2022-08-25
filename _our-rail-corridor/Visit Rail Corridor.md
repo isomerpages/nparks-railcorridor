@@ -10,7 +10,7 @@ The 24km long Rail Corridor is a continuous green passage that allows wildlife m
 As it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, essential walking paths and benches leading to the public restrooms and Bukit Timah Railway Station building and Railway Staff Quarters.  For safety, we encourage visitors to exit the Rail Corridor by nightfall, and to take extra care if you are still within Rail Corridor when it gets dark.
 
 #### **Park Etiquette**
-For an enjoyable experience along the Rail Corridor:
+For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 ·        Keep left at all times and keep noise level down
 
@@ -32,7 +32,7 @@ For an enjoyable experience along the Rail Corridor:
 
 #### **Maps**
  
-Please view the maps below to plan your journey. Please [visit this page](https://nparks-test1-staging.netlify.app/enhancement-plans/overview) for more information about the enhancement plans and closed stretches along Rail Corridor.
+Please view the maps below to plan your journey. Please [visit this page](https://nparks-test1-staging.netlify.app/enhancement-plans/overview) for more information about the enhancement plans and closed stretches along Rail Corridor. Do remember the simple tips to make park visits pleasant for everyone.
 
 **Rail Corridor (Central) Access Points**
 ![rc central](/images/RC%20Central/RC%20Central%20jpg.jpg)
