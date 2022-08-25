@@ -3,11 +3,27 @@ title: Visit Rail Corridor
 permalink: /visit-rail-corridor/permalink
 description: ""
 ---
+The 24km long Rail Corridor is a continuous green passage that allows wildlife movement between major green spaces. It also serves as a recreational corridor for all members of the public.
 
+For an enjoyable experience along the Rail Corridor:
 
-If you plan to visit the Rail Corridor, please check the visitorship levels using our safe distancing portal [https://safedistparks.nparks.gov.sg/](https://safedistparks.nparks.gov.sg/) and avoid high visitorship periods. For the latest advisories and updates on our parks and gardens, please visit [https://www.nparks.gov.sg/noticeboard](https://www.nparks.gov.sg/noticeboard)
+·        Keep left at all times and keep noise level down
 
-If you're cycling at the Rail Corridor, please note the **10km/h speed limit**. Be sure to ride safely, slow down and give way to pedestrians, and dismount and push your bikes when approaching narrow stretches. Other users can also play your part, for example by being attentive to your surroundings and giving way to faster-moving users.
+·       If you are cycling along the Rail Corridor, please note the 10km/h speed limit. Be sure to ride safely, slow down and give way to pedestrians, ring your bell when overtaking, and dismount and push your bicycles when crossing our bridges.
+
+·        Be attentive to your surroundings and give way to others
+
+·        Observe our flora and fauna from a distance. 
+
+·        Visit our Safe Distancing Parks portal ([HTTPS://SAFEDISTPARKS.NPARKS.GOV.SG](https://safedistparks.nparks.gov.sg/)) for information on visitorship levels before visiting.
+
+**Application to conduct an activity along Rail Corridor (including learning journey and hiking)**
+
+·        For organised group activities to our nature reserves and nature parks, an application is needed For more information, please [CLICK HERE](https://www.nparks.gov.sg/services/parks-permits-and-applications).
+
+·        Please visit our [NOTICEBOARD](https://www.nparks.gov.sg/noticeboard) for the latest updates and advisories pertaining to COVID-19.
+
+As it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, essential walking paths and benches leading to the public restrooms and Bukit Timah Railway Station building and Railway Staff Quarters.  For safety, we encourage visitors to exit the Rail Corridor by nightfall, and to take extra care if you are still within Rail Corridor when it gets dark.
  
 Due to enhancement works along the Rail Corridor, certain stretches have been closed. Diverted routes are available for you to walk along. Please [visit this page](https://nparks-test1-staging.netlify.app/enhancement-plans/overview) for the latest updates and maps to guide your journey on the Rail Corridor.
 
