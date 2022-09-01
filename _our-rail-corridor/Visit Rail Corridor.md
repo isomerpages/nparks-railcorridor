@@ -20,7 +20,7 @@ For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 ·        Observe our flora and fauna from a distance. 
 
-·        Visit our Safe Distancing Parks portal ([HTTPS://SAFEDISTPARKS.NPARKS.GOV.SG](https://safedistparks.nparks.gov.sg/)) for information on visitorship levels before visiting.
+
 
 #### **Parks Permits and Applications**
 
@@ -28,7 +28,6 @@ For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 ·        To apply for on-location filming, please [CLICK HERE](https://www.nparks.gov.sg/services/parks-permits-and-applications).
 
-·        Please visit our [NOTICEBOARD](https://www.nparks.gov.sg/noticeboard) for the latest updates and advisories pertaining to COVID-19.
 
 #### **Getting There**
  
