@@ -3,20 +3,4 @@ title: Trail Improvement Works
 permalink: /enhancement-plans/central/
 description: Rail Corridor trail improvement works
 ---
-
-**Central**
-
-A series of enhancement works along Rail Corridor (Central), spanning about 4 km between Upp Bt Timah truss bridge and Bt Timah truss bridge, was completed in 2021. The enhancement works include improvements to user accessibility, sensitive refurbishment of heritage truss bridges, and restoration of a belt of native forest to enhance the biodiversity and greenery of the Rail Corridor.
-
-
-
-Plans to enhance the Bukit Timah Railway Station and its surroundings as a community node include restoring and repurposing the conserved Railway Station as a heritage gallery, planting species that were commonly found in a 1960s kampong, and providing amenities such as toilets and bicycle racks. The enhancement works to the Bukit Timah Railway Station will be complete by mid-2022.
-
-
-
-**Closed Stretches**
-
-Due to enhancement works along the Rail Corridor, certain stretches have been closed. Diverted routes are available for you to walk along. You may wish to refer to the maps below to guide your journey on the Rail Corridor.
-![rc north map](/images/RC%20North/RC%20North%20Map%20jpg%20280622.jpg)
-
-![rc south map](/images/RC%20South/RC%20South%20Map%20jpg%20280622.jpg)
+Trail improvement works are ongoing along the northern stretch of Rail Corridor to prevent water ponding along trails after heavy rain and provide more shade for visitors. Please refer to the maps below to find out which stretches are closed for improvement works. 
