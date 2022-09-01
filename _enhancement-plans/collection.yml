@@ -2,7 +2,6 @@ collections:
   enhancement-plans:
     output: true
     order:
-      - Enhancement Plans (Overview).md
       - Enhancement Plans (Closed Stretches).md
       - Enhancement Plans (between Upper Bukit Timah Truss Bridge and Opposite
         Dairy Farm Road).md
