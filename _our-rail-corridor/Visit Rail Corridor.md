@@ -1,6 +1,6 @@
 ---
 title: Visit Rail Corridor
-permalink: /visit-rail-corridor/permalink
+permalink: /visit-rail-corridor/permalink/
 description: ""
 ---
 #### **About Rail Corridor**
@@ -30,9 +30,9 @@ For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 ·        Please visit our [NOTICEBOARD](https://www.nparks.gov.sg/noticeboard) for the latest updates and advisories pertaining to COVID-19.
 
-#### **Maps**
+#### **Getting There**
  
-Please view the maps below to plan your journey. Please [visit this page](https://nparks-test1-staging.netlify.app/enhancement-plans/overview) for more information about the enhancement plans and closed stretches along Rail Corridor. Do remember the simple tips to make park visits pleasant for everyone.
+There are many access points into the Rail Corridor. Please refer to the maps below to plan your visit to the Rail Corridor.
 
 **Rail Corridor (Central) Access Points**
 ![rc central](/images/RC%20Central/RC%20Central%20jpg.jpg)
