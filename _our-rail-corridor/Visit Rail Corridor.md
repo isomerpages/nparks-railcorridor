@@ -37,9 +37,9 @@ There are many access points into the Rail Corridor. Please refer to the maps be
 ![rc central](/images/RC%20Central/RC%20Central%20jpg.jpg)
 
 **Rail Corridor North and South**
-![rail corridor north](/images/RC%20North/RC%20North%20Map_07012022.jpg)
+![rail corridor north](/images/RC%20North/RC%20North%20Map%20jpg%20280622.jpg)
 
-![rc south](/images/RC%20South/RC%20South%20Map_Oct%202021.jpg)
+![rail corridor south](/images/RC%20South/RC%20South%20Map%20jpg%20280622.jpg)
 
 Let's be socially responsible and let everyone enjoy our green spaces!
 ![](/images/Rail%20Corridor_pls%20dismount.png)
