@@ -68,8 +68,3 @@ The Rail Corridor is open 24/7. However, as it is an important ecological corrid
 #### **Accessibility information:**  
 The Bukit Timah Railway Station community node is wheelchair accessible.
 
-#### **Notice:**  
- A section of the Bukit Timah Railway Station building is closed for maintenance works.  Visitors are still able to view the signal room and waiting area.
-
-
-
