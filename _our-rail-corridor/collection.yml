@@ -2,8 +2,8 @@ collections:
   our-rail-corridor:
     output: true
     order:
-      - Friends of Rail Corridor.md
       - Visit Rail Corridor.md
       - Bukit Timah Railway Station.md
       - Biodiversity & Greenery.md
+      - Friends of Rail Corridor.md
       - Heritage & Culture (to hide).md
