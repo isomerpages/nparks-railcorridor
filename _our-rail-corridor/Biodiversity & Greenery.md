@@ -5,7 +5,8 @@ description: ""
 ---
 ![rail corridor greenery](/images/RC%20Central/Central_path4_IMG-20210521-WA0011.jpg)
 
-Spanning 24 km long, the Rail Corridor is an important ecological corridor that allows wildlife movement between major green spaces and forest habitats such as Bukit Timah Nature Reserve and Dairy Farm Nature Park. As part of habitat enhancement, more than 37,000 trees and shrubs were planted since 2018 along the corridor to extend the habitats to facilitate wildlife movement and foraging.
+Spanning 24 km long, the Rail Corridor is an important ecological corridor that allows wildlife movement between major green spaces and forest habitats such as Bukit Timah Nature Reserve and Dairy Farm Nature Park. More than 37,000 trees and shrubs were planted along the corridor since 2018 to extend the habitats to facilitate this.
+
 
 A biodiversity survey known as the BioBlitz, was conducted on May 2018 to document the fauna species spotted at the Rail Corridor. Sightings of many forest bird species such as the Greater Racket-tailed Drongo (_Dicrurus paradiseus_), Straw-headed Bulbul (_Pycnonotus zeylanicus_), and Changeable Hawk-Eagle (*Spizaetus cirrhatus*) were recorded. Forest butterfly species such as the Common Birdwing (_Troides_ _helena_ _cerberus_), and The Archduke (_Lexias pardalis dirteana_) have also been sighted. To find out more about BioBlitz, please [click here.](https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/bioblitz)
 
