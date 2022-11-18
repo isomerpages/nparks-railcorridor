@@ -35,6 +35,8 @@ There are many access points into the Rail Corridor. Please refer to the maps be
 
 Please [[visit this page](https://nparks-test1-staging.netlify.app/our-rail-corridor/permalink/)](https://) to find out how to get to Bukit Timah Railway Station. 
 
+The Rail Corridor leads to several nature parks around Bukit Timah. Pleaser refer to [A Guide to Hiking Trails around Bukit Timah](https://go.gov.sg/trailsguidebt) and observe the park etiquettes when exploring the trails.
+
 ![rc central](/images/RC%20Central/RC%20Central%20jpg.jpg)
 
 **Rail Corridor North and South**
