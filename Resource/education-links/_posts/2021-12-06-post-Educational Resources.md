@@ -6,7 +6,6 @@ layout: post
 description: Educational Resources for Rail Corridor
 image: /images/Chocolate%20Pansy_SBG_XF.JPG
 ---
-
 Learn more about the Rail Corridor with these resources developed by the Friends of Rail Corridor. 
 
 **BioBlitz@Rail Corridor 2018**
