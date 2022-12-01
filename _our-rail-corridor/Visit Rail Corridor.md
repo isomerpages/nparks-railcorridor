@@ -24,9 +24,9 @@ For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 #### **Parks Permits and Applications**
 
-·        A permit is required to conduct any activity that involves 30 or more participants along Rail Corridor. For more information, please [CLICK HERE](https://www.nparks.gov.sg/services/parks-permits-and-applications).
+·        A permit is required to conduct any activity that involves 30 or more participants along Rail Corridor. For more information, please [click here](https://www.nparks.gov.sg/services/parks-permits-and-applications).
 
-·        To apply for on-location filming, please [CLICK HERE](https://www.nparks.gov.sg/services/parks-permits-and-applications).
+·        To apply for on-location filming, please [click here](https://www.nparks.gov.sg/services/parks-permits-and-applications).
 
 
 #### **Getting There**
