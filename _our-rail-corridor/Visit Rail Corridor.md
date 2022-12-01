@@ -3,6 +3,8 @@ title: Visit Rail Corridor
 permalink: /visit-rail-corridor/
 description: ""
 ---
+![rail corridor sg](/images/RC%20Central/Central%20overview_IMG-20210323-WA0022.jpg)
+
 #### **About Rail Corridor**
 
 The 24km long Rail Corridor is a continuous green passage that allows wildlife movement between major green spaces. It also serves as a recreational corridor for all members of the public.
