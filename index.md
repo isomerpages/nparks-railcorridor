@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "National Parks Rail Corridor "
+title: "National Parks Board "
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -27,4 +27,5 @@ sections:
   - resources:
       title: Latest News
 ---
+
 
