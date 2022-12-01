@@ -2,6 +2,7 @@ collections:
   our-rail-corridor:
     output: true
     order:
+      - Educational Links.md
       - Visit Rail Corridor.md
       - Bukit Timah Railway Station.md
       - Biodiversity & Greenery.md
