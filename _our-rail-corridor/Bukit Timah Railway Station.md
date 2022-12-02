@@ -3,8 +3,6 @@ title: Bukit Timah Railway Station
 permalink: /bukit-timah-railway-station/
 description: Rail Corridor Bukit Timah Railway Station
 ---
-
-
 The Bukit Timah Railway Station community node was opened on 1 July 2022.
 
 ![rc btrs](/images/BTRS.png)
@@ -48,7 +46,7 @@ The Herb and Spice Garden showcases plants like Siamese Ginger (*Zingiber offici
 
 A new sheltered Yard serves as a rest area and gathering point, with public restrooms that simulate rustic toilets found in the old days. The Yard also features an educational board that shares with visitors the history of the railway.
 
-Click [HERE](https://nparks-test1-staging.netlify.app/resource/resource-categories/permalink) for more information on how to visit the Bukit Timah Railway Station community node.
+Click [HERE](/bukit-timah-railway-station/) for more information on how to visit the Bukit Timah Railway Station community node.
 
 
 #### **How to get there:**
@@ -69,4 +67,3 @@ The Rail Corridor is open 24/7. However, as it is an important ecological corrid
 
 #### **Accessibility information:**  
 The Bukit Timah Railway Station community node is wheelchair accessible.
-
