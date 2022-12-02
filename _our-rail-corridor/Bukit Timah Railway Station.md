@@ -45,8 +45,6 @@ The Herb and Spice Garden showcases plants like Siamese Ginger (*Zingiber offici
 
 A new sheltered Yard serves as a rest area and gathering point, with public restrooms that simulate rustic toilets found in the old days. The Yard also features an educational board that shares with visitors the history of the railway.
 
-Click [here](/bukit-timah-railway-station/) for more information on how to visit the Bukit Timah Railway Station community node.
-
 
 #### **How to get there:**
   
