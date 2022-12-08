@@ -1,36 +1,33 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: National Parks Board
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Due to enhancement works along the Rail Corridor, certain
+  stretches have been closed. Diverted routes are available for you to walk
+  along. Please visit ENHANCEMENT PLANS for more details.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Our Rail Corridor
+      subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
+      background: /images/RC Central/Central_path4_IMG-20210521-WA0011 - background.jpg
+      button: Plan Your Visit
+      url: /visit-rail-corridor/
+      key_highlights:
+        - title: Visit Rail Corridor
+          description: ""
+          url: /visit-rail-corridor/
+        - title: Visit Bukit Timah Railway Station
+          description: ""
+          url: /bukit-timah-railway-station
+        - title: Enhancement Plans
+          description: ""
+          url: /enhancement-plans/trails
+  - resources:
+      title: Latest News
 ---
+
+
+
 

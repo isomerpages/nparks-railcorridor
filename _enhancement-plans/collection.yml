@@ -1,0 +1,7 @@
+collections:
+  enhancement-plans:
+    output: true
+    order:
+      - Trail Improvement Works.md
+      - Improvement Works between Upper Bukit Timah Truss Bridge and Opposite
+        Dairy Farm Road.md
