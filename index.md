@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: National Parks Board
-description: An Isomer site of the Singapore Government
+title: NParks Rail Corridor
+description: The Rail Corridor is a continuous green passage that allows
+  wildlife movement between major green spaces. It also serves as a recreational
+  corridor for all members of the public.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Due to enhancement works along the Rail Corridor, certain
@@ -27,6 +29,7 @@ sections:
   - resources:
       title: Latest News
 ---
+
 
 
 
