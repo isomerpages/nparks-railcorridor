@@ -1,5 +1,5 @@
-title: National Parks Board
-url: https://www.nparks.gov.sg
+title: NParks Rail Corridor
+url: https://www.railcorridor.nparks.gov.sg
 favicon: /images/nparks logo.png
 colors:
   primary-color: "#3d8965"
@@ -16,7 +16,9 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: latest-news
-description: An Isomer site of the Singapore Government
+description: The Rail Corridor is a continuous green passage that allows
+  wildlife movement between major green spaces. It also serves as a recreational
+  corridor for all members of the public.
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://nparks-railcorridor-staging.netlify.app
 prod: https://nparks-railcorridor-prod.netlify.app
-is_government: false
+is_government: true
 shareicon: /images/isomer-logo.svg
 facebook-pixel: ""
 google_analytics: ""
