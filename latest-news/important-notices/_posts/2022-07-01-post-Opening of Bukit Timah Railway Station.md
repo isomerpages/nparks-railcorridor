@@ -7,5 +7,5 @@ description: BTRS
 image: ""
 ---
 The Bukit Timah Railway Station community node is now open! 
-Please [visit this page](https://nparks-railcorridor-staging.netlify.app/bukit-timah-railway-station/) to find out more. 
+Please [visit this page](/bukit-timah-railway-station/) to find out more. 
 ![btrs](/images/BTRS.png)
