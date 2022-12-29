@@ -45,14 +45,11 @@ A new sheltered Yard serves as a rest area and gathering point, with public rest
 
 
 #### **How to get there:**
-  
-By bus: 67, 74, 77, 151, 154, 157, 170, 174, 852, 961, 961M, 970  
+![rail corridor](/images/RC%20BTRS/RC%20BTRS%20Central%20entrance.jpg)  By bus: 67, 74, 77, 151, 154, 157, 170, 174, 852, 961, 961M, 970  
 Alight at King Albert Park MRT Station, along Bukit Timah Road (bus stop ID: 42051).  
   
 By MRT: Alight at King Albert Park MRT Station, Exit A  
 Upon exiting the MRT station, turn left and walk along Bukit Timah Road for 5 minutes. You will be greeted by a landscaped entrance point to lead you into the Rail Corridor.
-
-![rc entrance](/images/RC%20Entrance.png)
 
 #### **Parking information:**  
 There is no carpark at the Bukit Timah Railway Station community node. You are encouraged to visit via public transport.  
