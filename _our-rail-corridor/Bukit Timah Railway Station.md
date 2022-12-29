@@ -3,7 +3,8 @@ title: Bukit Timah Railway Station
 permalink: /bukit-timah-railway-station/
 description: Rail Corridor Bukit Timah Railway Station
 ---
-![rc btrs](/images/BTRS.png)
+![rail corridor](/images/RC%20BTRS/RC%20BTRS%20-%20Maggie%20Lim.jpg)
+*Photo credit: Maggie Lim*
 
 The Bukit Timah Railway Station community node was opened on 1 July 2022.
 The community node comprises of the following:
