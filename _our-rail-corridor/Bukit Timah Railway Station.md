@@ -31,7 +31,7 @@ It is open to public daily, from 9am to 9pm. For more information on the café, 
  
 
 #### **Kampung Garden / Herb and Spice Garden**
-![kampung garden](/images/Kampung%20Garden.png)
+![rail corridor](/images/RC%20BTRS/Kampung%20Garden%20(resized).png)
 The Railway Staff Quarters features two new gardens – Kampung Garden, and Herb and Spice Garden.
 
 Check out the ornamental shrubs and flowers iconic to Singapore’s 1960s landscape in the Kampung Garden. They include the Bunga Raya (*[Hibiscus rosa-sinensis](https://www.nparks.gov.sg/florafaunaweb/flora/2/0/2095)*), Peacock Flower (*[Caesalpinia pulcherrima](https://www.nparks.gov.sg/florafaunaweb/flora/1/7/1740)*), and the Arabian Jasmine (*[Jasminum sambac 'Arabian Nights'](https://www.nparks.gov.sg/florafaunaweb/flora/5/2/5208)’*).
