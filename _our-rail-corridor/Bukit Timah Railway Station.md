@@ -24,7 +24,7 @@ To the front of the building, you can find more restored features, such as stati
 
 
 #### **Railway Staff Quarters**
-![rail corridor](/images/RC%20BTRS/Railway%20Staff%20Quarters.png)
+![rail corridor staff quarters]()
 The conserved Railway Staff Quarters is a former staff housing block which has been repurposed into a café, called ['1932 STORY'](https://www.instagram.com/1932story/) with a rustic, relaxed ambience. Key architectural elements of the building were also restored, and improvements made to make the building more accessible.
 
 It is open to public daily, from 9am to 9pm. For more information on the café, click [HERE](https://www.nparks.gov.sg/activities/dining/tenants).
