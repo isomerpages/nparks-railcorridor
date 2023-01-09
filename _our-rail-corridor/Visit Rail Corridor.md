@@ -42,8 +42,9 @@ The Rail Corridor leads to several nature parks around Bukit Timah. Pleaser refe
 ![rc central](/images/RC%20Central/RC%20Central%20jpg.jpg)
 
 **Rail Corridor North and South**
-![rail corridor](/images/RC%20North/RC%20North%20Map%2030122022.jpg)
+![rail corridor](/images/RC%20North/Rail%20Corridor%20North%20Map_Jan2023.jpg)
 
-![rail corridor](/images/RC%20South/RC%20South%20Map%2030122022.jpg)
+![rail corridor](/images/RC%20South/Rail%20Corridor%20South%20Map_Jan2023.jpg)
+
 Let's be socially responsible and let everyone enjoy our green spaces!
 ![](/images/Rail%20Corridor_pls%20dismount.png)
