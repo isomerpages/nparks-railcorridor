@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Two more sections of the Rail Corridor (North) are closed for improvement works from 6 June 2022. Please use the alternative routes along Woodlands Road. Works are expected to be completed by 31 December 2022.
+Two more sections of the Rail Corridor (North) are closed for improvement works from 6 June 2022. Please use the alternative routes along Woodlands Road. Works are expected to be completed by 31 March 2023.
 
 For more information on closure of trail between Kranji Road and Kranji MRT, please [click here](/files/RC%20Notices/Kranji%20Rd%20-%20Kranji%20MRT%20-%20Closure%20Notice%20for%20Rail%20Corridor.pdf).
 
