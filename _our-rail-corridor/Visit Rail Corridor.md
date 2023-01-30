@@ -24,6 +24,14 @@ For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 
 
+#### **Safety During Bad Weather**
+
+For safety, during and immediately after bad weather, please seek cover at the nearest shelter available and avoid entering forested areas, including nature reserves and nature parks.
+
+Do note that when planning to go outdoors, you may dial 65427788 for weather forecasts.
+
+
+
 #### **Parks Permits and Applications**
 
 ·        A permit is required to conduct any activity that involves 30 or more participants along Rail Corridor. For more information, please [click here](https://www.nparks.gov.sg/services/parks-permits-and-applications).
