@@ -6,7 +6,6 @@ layout: post
 description: opening of rail corridor north
 image: /images/Kranji & Hillview/Lookout Deck.jpg
 ---
-
 ![Kranji Node](/images/Kranji%20&%20Hillview/Kranji%20Node.jpg)
 
 On 10 February 2023, the National Parks Board (NParks) and Urban Redevelopment Authority (URA) opened Rail Corridor (North), which marks more than 21km of continuous connectivity for visitors along the Rail Corridor. The public can now explore the Rail Corridor, stretching from Kranji MRT station in the north to Spooner Road in the south, with more than 30 access paths connecting neighboring residents and communities to the Rail Corridor.
@@ -31,7 +30,7 @@ Alight opposite Kranji MRT Station
 By MRT: Alight at Kranji MRT Station
 Upon exiting the MRT station, cross the pedestrian overhead bridge
 
-##### **How to get to Hillview bridge:**
+##### **How to get to Hillview Bridge:**
 By bus: 67, 75, 170, 176, 178, 184, 961, 961M, 963, 970
 Alight at Hillview Station 
 
