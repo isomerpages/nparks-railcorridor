@@ -71,5 +71,4 @@ The nearest toilets would be at Hillview MRT Station and 9 Mile Platform (next t
 
 
 ##### **Opening hours:**
-The Rail Corridor is open 24/7. However, as it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, and at Bukit Timah Railway Station community node. We encourage that you leave the Rail Corridor before dark falls. 
-
+The Rail Corridor is open 24/7. However, as it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, and at Bukit Timah Railway Station community node. We encourage that you leave the Rail Corridor before dark falls.
