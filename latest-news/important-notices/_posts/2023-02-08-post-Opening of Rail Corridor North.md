@@ -13,7 +13,7 @@ On 10 February 2023, the National Parks Board (NParks) and Urban Redevelopment A
 Located opposite Kranji MRT station, the new Kranji node features a rustic nature trail connected to a 2,000 sqm events field for community events, and an enhanced trail that connects to the central and southern sections of the Rail Corridor.
 
 
-![Hillview Bridge]()
+![Hillview Bridge](/images/Kranji%20&%20Hillview/Hillview%20Bridge.jpg)
 
 Hillview Bridge, which was dismantled in 2011, has also been replaced, thus re-establishing pedestrian connectivity across Hillview Road and along the Rail Corridor. Railway tracks were embedded into the flooring of the bridge to remind visitors of the Rail Corridor’s history as a railway.
 
