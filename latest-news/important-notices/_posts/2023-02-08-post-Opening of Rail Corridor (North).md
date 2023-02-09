@@ -79,8 +79,3 @@ The Rail Corridor is open 24/7. However, as it is an important ecological corrid
 
 ##### **Connectivity:** 
 To ensure that you have an enjoyable time at the Rail Corridor, we have put together this table to help you plan your journey along Rail Corridor (North). We hope the information will be useful. 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
