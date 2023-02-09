@@ -68,7 +68,7 @@ Upon exiting the MRT station, turn right and walk along the ramp leading to Rail
 By car: Parking is available at The Rail Mall. Parking charges may apply.
 
 *Accessibility information:*
-Hillview bridge is wheelchair-accessible. You can take the lift from Hillview MRT station Exit B to Hillview Bridge.
+Hillview Bridge is wheelchair-accessible. You can take the lift from Hillview MRT station Exit B to Hillview Bridge.
 
 *Toilets:* 
 The nearest toilets would be at Hillview MRT Station and 9 Mile Platform (next to Upper Bukit Timah Truss Bridge).
@@ -83,4 +83,4 @@ To ensure you have an enjoyable time at the Rail Corridor, we have put together 
 
 ![Accessibility along Rail Corridor](/images/Kranji%20&%20Hillview/BFA.jpg)
 
-To continue from Bukit Timah Railway Station to Spooner Road via Rail Corridor (South), please [click](https://railcorridor.nparks.gov.sg/visit-rail-corridor/) to access points in Rail Corridor (South) and also to read more about park etiquettes.
+To continue from Bukit Timah Railway Station to Spooner Road via Rail Corridor (South), please [click](https://railcorridor.nparks.gov.sg/visit-rail-corridor/) to view the access points along Rail Corridor (South) and also to read more about park etiquettes.
