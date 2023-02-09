@@ -2,5 +2,4 @@ collections:
   enhancement-plans:
     output: true
     order:
-      - Trail Improvement Works.md
       - Improvement Works Opposite Dairy Farm Road.md
