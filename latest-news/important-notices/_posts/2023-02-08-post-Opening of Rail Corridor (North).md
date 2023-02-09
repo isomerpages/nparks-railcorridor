@@ -53,7 +53,7 @@ The new Hillview Bridge re-establishes pedestrian connectivity across Hillview R
 
 Looking for an IG-worthy spot? Check out the lookout deck near the Upper Bukit Timah truss bridge where you can enjoy the scenic view of the lush Bukit Timah Nature Reserve and Dairy Farm Nature Park.
 
-![Pedestrian overhead bridge]()
+![Pedestrian overhead bridge](/images/Kranji%20&%20Hillview/Overhead%20bridge.jpg)
 
 In addition, the existing pedestrian overhead bridge along Upper Bukit Timah Road has been extended to connect directly to the Rail Corridor. This provides anyone who needs a break for food and water with more direct and convenient access to the amenities at The Rail Mall, without you having to cross the at-grade pedestrian crossing along Upper Bukit Timah Road!
 
@@ -76,7 +76,3 @@ The nearest toilets would be at Hillview MRT Station and 9 Mile Platform (next t
 
 ##### **Opening hours:**
 The Rail Corridor is open 24/7. However, as it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, and at Bukit Timah Railway Station community node. We encourage that you leave the Rail Corridor before dark falls.
-
-  
- 
-  
