@@ -76,3 +76,11 @@ The nearest toilets would be at Hillview MRT Station and 9 Mile Platform (next t
 
 ##### **Opening hours:**
 The Rail Corridor is open 24/7. However, as it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, and at Bukit Timah Railway Station community node. We encourage that you leave the Rail Corridor before dark falls.
+
+##### **Connectivity:**
+
+To ensure you have an enjoyable time at the Rail Corridor, we have put together this table to help you plan your journey along Rail Corridor (North). We hope the information will be useful.
+
+![Accessibility along Rail Corridor](/images/Kranji%20&%20Hillview/BFA.jpg)
+
+To continue from Bukit Timah Railway Station to Spooner Road via Rail Corridor (South), please [click](https://railcorridor.nparks.gov.sg/visit-rail-corridor/) to access points in Rail Corridor (South) and also to read more about park etiquettes.
