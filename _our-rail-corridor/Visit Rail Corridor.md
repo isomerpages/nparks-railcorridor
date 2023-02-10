@@ -7,7 +7,7 @@ description: ""
 
 #### **About Rail Corridor**
 
-The 24km long Rail Corridor is a continuous green passage that allows wildlife movement between major green spaces. It also serves as a recreational corridor for all members of the public.
+The 24 km long Rail Corridor is a continuous green passage that allows wildlife movement between major green spaces. It also serves as a recreational corridor for all members of the public.
 
 As it is an important ecological corridor, the Rail Corridor is not lit at night to facilitate nocturnal wildlife movement. Lighting is only provided at certain access points, essential walking paths and benches leading to the public restrooms and Bukit Timah Railway Station building and Railway Staff Quarters.  For safety, we encourage visitors to exit the Rail Corridor by nightfall, and to take extra care if you are still within Rail Corridor when it gets dark.
 
