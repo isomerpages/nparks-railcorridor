@@ -6,7 +6,7 @@ layout: post
 description: opening of rail corridor north
 image: /images/Kranji & Hillview/Lookout Deck.jpg
 ---
-Rail Corridor (North) is now open! 
+Rail Corridor (North) is now open !
 ![Access points of Rail Corridor (North)](/images/RC%20North/Rail%20Corridor%20Map_North_080223.jpg)
 
 Offering you more than 21 km of continuous connectivity along the Rail Corridor, you can now explore Rail Corridor from opposite Kranji MRT station to Spooner Road – all the way from north to south with this new opening. There are now more than 30 access paths connecting neighboring residents and communities to the Rail Corridor!
