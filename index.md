@@ -23,7 +23,7 @@ sections:
           url: /bukit-timah-railway-station
         - title: Enhancement Plans
           description: ""
-          url: /enhancement-plans/trails
+          url: enhancement-plans/btdf/
   - resources:
       title: Latest News
 ---
