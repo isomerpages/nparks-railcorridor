@@ -24,6 +24,14 @@ For an enjoyable experience along the Rail Corridor, here are some simple tips:
 
 
 
+#### **Safety During Bad Weather**
+
+For safety, during and immediately after bad weather, please seek cover at the nearest shelter available and avoid entering forested areas, including nature reserves and nature parks.
+
+Do note that when planning to go outdoors, you may dial 65427788 for weather forecasts.
+
+
+
 #### **Parks Permits and Applications**
 
 ·        A permit is required to conduct any activity that involves 30 or more participants along Rail Corridor. For more information, please [click here](https://www.nparks.gov.sg/services/parks-permits-and-applications).
@@ -40,9 +48,9 @@ Please [visit this page](/bukit-timah-railway-station/) to find out how to get t
 The Rail Corridor leads to several nature parks around Bukit Timah. Pleaser refer to [A Guide to Hiking Trails around Bukit Timah](https://go.gov.sg/trailsguidebt) and observe the park etiquettes when exploring the trails.
 
 **Rail Corridor North and South**
-![rail corridor](/images/RC%20North/Rail%20Corridor%20North%20Map_Jan2023.jpg)
+![rail corridor](/images/RC%20North/Rail%20Corridor%20Map_North_080223.jpg)
 
-![rail corridor](/images/RC%20South/Rail%20Corridor%20South%20Map_Jan2023.jpg)
+![rail corridor](/images/RC%20South/Rail%20Corridor%20Map_South_080223.jpg)
 
 Let's be socially responsible and let everyone enjoy our green spaces!
 ![](/images/Rail%20Corridor_pls%20dismount.png)
