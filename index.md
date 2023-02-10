@@ -6,9 +6,7 @@ description: The Rail Corridor is a continuous green passage that allows
   corridor for all members of the public.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Due to enhancement works along the Rail Corridor, certain
-  stretches have been closed. Diverted routes are available for you to walk
-  along. Please visit ENHANCEMENT PLANS for more details.
+notification: ""
 sections:
   - hero:
       title: Our Rail Corridor
@@ -29,8 +27,3 @@ sections:
   - resources:
       title: Latest News
 ---
-
-
-
-
-
