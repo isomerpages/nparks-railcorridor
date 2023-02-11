@@ -40,17 +40,18 @@ Do note that when planning to go outdoors, you may dial 65427788 for weather for
 
 
 #### **Getting There**
- 
 There are many access points into the Rail Corridor. Please refer to the maps below to plan your visit to the Rail Corridor.
-
-Please [visit this page](/bukit-timah-railway-station/) to find out how to get to Bukit Timah Railway Station. 
-
-The Rail Corridor leads to several nature parks around Bukit Timah. Pleaser refer to [A Guide to Hiking Trails around Bukit Timah](https://go.gov.sg/trailsguidebt) and observe the park etiquettes when exploring the trails.
 
 **Rail Corridor North and South**
 ![rail corridor](/images/RC%20North/Rail%20Corridor%20Map_North_080223.jpg)
 
 ![rail corridor](/images/RC%20South/Rail%20Corridor%20Map_South_080223.jpg)
+
+For more information about Rail Corridor North and how to get there, please [click here](latest-news/important-notices/opening-rc-north/). 
+
+For more information about Bukit Timah Railway Station and how to get there, please [click here](/bukit-timah-railway-station/) 
+
+The Rail Corridor leads to several nature parks around Bukit Timah. Pleaser refer to [A Guide to Hiking Trails around Bukit Timah](https://go.gov.sg/trailsguidebt) and observe the park etiquettes when exploring the trails.
 
 Let's be socially responsible and let everyone enjoy our green spaces!
 ![](/images/Rail%20Corridor_pls%20dismount.png)
