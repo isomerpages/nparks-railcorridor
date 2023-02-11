@@ -39,7 +39,7 @@ The nearest toilets would be at Kranji MRT Station and Singapore Turf Club.
 
 *Event space booking:*
 ![](/images/Kranji%20&amp;%20Hillview/Kranji%20Node.jpg)
-For organised group activities at the Rail Corridor, a permit is required for groups of 30 and above.
+For organised group activities at the Rail Corridor, a [permit](https://www.nparks.gov.sg/services/parks-permits-and-applications) is required for groups of 30 and above.
 For booking enquiries, please write to [Amanda_Ng@nparks.gov.sg](Amanda_NG@nparks.gov.sg), [Rachel_Loh@nparks.gov.sg](Rachel_LOH@nparks.gov.sg) and [Margarette_Chang@nparks.gov.sg](Margarette_CHANG@nparks.gov.sg). 
 
 
@@ -83,4 +83,4 @@ To ensure you have an enjoyable time at the Rail Corridor, we have put together 
 
 ![Accessibility along Rail Corridor](/images/Kranji%20&%20Hillview/BFA.jpg)
 
-To continue from Bukit Timah Railway Station to Spooner Road via Rail Corridor (South), please [click](https://railcorridor.nparks.gov.sg/visit-rail-corridor/) to view the access points along Rail Corridor (South) and also to read more about park etiquettes.
+To continue from Bukit Timah Railway Station to Spooner Road via Rail Corridor (South), please [click here](https://railcorridor.nparks.gov.sg/visit-rail-corridor/) to view the access points along Rail Corridor (South) and also to read more about park etiquettes.
