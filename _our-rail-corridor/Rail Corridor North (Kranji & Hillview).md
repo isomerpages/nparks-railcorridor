@@ -4,8 +4,6 @@ permalink: /our-rail-corridor/rc-north/
 description: Rail Corridor North
 image: ""
 ---
-
-
 Rail Corridor (North) is now open !
 ![Access points of Rail Corridor (North)](/images/RC%20North/Rail%20Corridor%20Map_North_080223.jpg)
 
@@ -30,6 +28,8 @@ By MRT: Alight at Kranji MRT Station
 Upon exiting the MRT station, cross the pedestrian overhead bridge
 
 By car: Parking is available at Singapore Turf Club. Parking charges may apply.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyvndEt3fmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *Accessibility information:* 
 The Kranji node is wheelchair-accessible. From the MRT station, you can use the lift to cross the overhead bridge and take the lift down to Kranji node.
