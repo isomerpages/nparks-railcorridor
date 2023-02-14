@@ -1,9 +1,10 @@
 ---
-title: Rail Corridor North (Kranji & Hillview)
+title: Rail Corridor (North)
 permalink: /our-rail-corridor/rc-north/
 description: Rail Corridor North
 image: ""
 ---
+
 Rail Corridor (North) is now open !
 ![Access points of Rail Corridor (North)](/images/RC%20North/Rail%20Corridor%20Map_North_080223.jpg)
 
@@ -82,5 +83,9 @@ The Rail Corridor is open 24/7. However, as it is an important ecological corrid
 To ensure you have an enjoyable time at the Rail Corridor, we have put together this table to help you plan your journey along Rail Corridor (North). We hope the information will be useful.
 
 ![Accessibility along Rail Corridor](/images/Kranji%20&%20Hillview/BFA.jpg)
+
+Please click [here](/files/RC%20Notices/Diversion%20Notice%20for%20Rail%20Corridor%20North.pdf) to view the diversion between Choa Chu Kang Road and Villa Verde Park. 
+
+Please click [here](/files/RC%20Notices/LTA%20diversion%20notice.pdf) to view the diversion between Hillview Road and Opp CHIJ Our Lady Queen of Peace. 
 
 To continue from Bukit Timah Railway Station to Spooner Road via Rail Corridor (South), please [click](https://railcorridor.nparks.gov.sg/visit-rail-corridor/) to view the access points along Rail Corridor (South) and also to read more about park etiquettes.
