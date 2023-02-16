@@ -4,7 +4,6 @@ permalink: /our-rail-corridor/rc-north/
 description: Rail Corridor North
 image: ""
 ---
-
 Rail Corridor (North) is now open !
 ![Access points of Rail Corridor (North)](/images/RC%20North/Rail%20Corridor%20Map_North_080223.jpg)
 
