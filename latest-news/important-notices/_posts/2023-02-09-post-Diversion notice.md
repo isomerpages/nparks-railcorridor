@@ -14,7 +14,7 @@ Works are expected to be completed by Q4 2024. For more information on the closu
 
 **Diversion of trail between Choa Chu Kang Road and Stagmont Ring Road**
 
-Due to enhancement works, the Rail Corridor between Choa Chu Kang Road and Stagmont Ring Road has been diverted. Works are expected to be completed by 2026. For more information, please [click here](/files/RC%20Notices/17%20Feb%202023%20Diversion%20Notice%20for%20Rail%20Corridor%20North_LY_RL.pdf).
+Due to enhancement works, the Rail Corridor between Choa Chu Kang Road and Stagmont Ring Road has been diverted. Works are expected to be completed by 2026. For more information, please [click here](/files/RC%20Notices/17%20Feb%202023%20Diversion%20Notice%20for%20Rail%20Corridor.pdf).
 
 
 If you have any queries, please contact **Amanda_Ng@nparks.gov.sg, Rachel_Loh@nparks.gov.sg or Margarette_CHANG@nparks.gov.sg.**
