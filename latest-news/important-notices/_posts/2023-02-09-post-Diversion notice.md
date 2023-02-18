@@ -12,9 +12,9 @@ Two sections of the Rail Corridor (North) are diverted for development works. Pl
 
 Works are expected to be completed by Q4 2024. For more information on the closure of trail, please [click here](/files/RC%20Notices/LTA%20diversion%20notice.pdf).
 
-**Closure of trail between Choa Chu Kang Road and Villa Verde Bridge**
+**Diversion of trail between Choa Chu Kang Road and Stagmont Ring Road**
 
-Works are expected to be completed by 2026. For more information on the closure of trail, please [click here](/files/RC%20Notices/Diversion%20Notice%20for%20Rail%20Corridor%20North.pdf).
+Due to enhancement works, the Rail Corridor between Choa Chu Kang Road and Stagmont Ring Road has been diverted. Works are expected to be completed by 2026. For more information, please [click here](/files/RC%20Notices/17%20Feb%202023%20Diversion%20Notice%20for%20Rail%20Corridor%20North_LY_RL.pdf).
 
 
 If you have any queries, please contact **Amanda_Ng@nparks.gov.sg, Rachel_Loh@nparks.gov.sg or Margarette_CHANG@nparks.gov.sg.**
