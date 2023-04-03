@@ -5,7 +5,7 @@ description: Rail Corridor North
 image: ""
 ---
 Rail Corridor (North) is now open !
-![Access points for Rail Corridor North](/images/RC%20North/Rail%20Corridor%20Map_North_110323.jpg)
+![Access points for Rail Corridor (North)](/images/RC%20North/rail%20corridor%20north%20map%20for%20microsite_31032023.jpg)
 
 Offering you more than 21 km of continuous connectivity along the Rail Corridor, you can now explore Rail Corridor from opposite Kranji MRT station to Spooner Road – all the way from north to south with this new opening. There are now more than 30 access paths connecting neighboring residents and communities to the Rail Corridor!
 
@@ -29,7 +29,7 @@ Upon exiting the MRT station, cross the pedestrian overhead bridge
 
 By car: Parking is available at Singapore Turf Club. Parking charges may apply.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cyvndEt3fmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyvndEt3fmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 *Accessibility information:* 
 The Kranji node is wheelchair-accessible. From the MRT station, you can use the lift to cross the overhead bridge and take the lift down to Kranji node.
@@ -53,7 +53,7 @@ The new Hillview Bridge re-establishes pedestrian connectivity across Hillview R
 
 Looking for an IG-worthy spot? Check out the lookout deck near the Upper Bukit Timah truss bridge where you can enjoy the scenic view of the lush Bukit Timah Nature Reserve and Dairy Farm Nature Park.
 
-![Pedestrian overhead bridge](/images/Kranji%20&%20Hillview/Overhead%20bridge.jpg)
+![Pedestrian overhead bridge](/images/Kranji%20&amp;%20Hillview/Overhead%20bridge.jpg)
 
 In addition, the existing pedestrian overhead bridge along Upper Bukit Timah Road has been extended to connect directly to the Rail Corridor. This provides anyone who needs a break for food and water with more direct and convenient access to the amenities at The Rail Mall, without you having to cross the at-grade pedestrian crossing along Upper Bukit Timah Road!
 
@@ -81,7 +81,7 @@ The Rail Corridor is open 24/7. However, as it is an important ecological corrid
 
 To ensure you have an enjoyable time at the Rail Corridor, we have put together this table to help you plan your journey along Rail Corridor (North). We hope the information will be useful.
 
-![Accessibility along Rail Corridor](/images/Kranji%20&%20Hillview/BFA.jpg)
+![Accessibility along Rail Corridor](/images/Kranji%20&amp;%20Hillview/BFA.jpg)
 
 Please click [here](/files/RC%20Notices/Diversion%20Notice%20for%20Rail%20Corridor%20North.pdf) to view the diversion between Choa Chu Kang Road and Villa Verde Park. 
 
