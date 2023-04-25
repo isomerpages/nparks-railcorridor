@@ -4,10 +4,10 @@ permalink: /latest-news/important-notices/opening-rc-north/
 date: 2023-02-08
 layout: post
 description: opening of rail corridor north
-image: /images/Kranji &amp; Hillview/Lookout Deck.jpg
+image: /images/Kranji & Hillview/Lookout Deck.jpg
 ---
 Rail Corridor (North) is now open !
-![Access points of Rail Corridor (North)](/images/RC%20North/rail%20corridor%20north%20map%20for%20microsite_31032023.jpg)
+![Access points for Rail Corridor (North)](/images/RC%20North/rail%20corridor%20north%20map_25042023.jpg)
 
 Offering you more than 21 km of continuous connectivity along the Rail Corridor, you can now explore Rail Corridor from opposite Kranji MRT station to Spooner Road – all the way from north to south with this new opening. There are now more than 30 access paths connecting neighboring residents and communities to the Rail Corridor!
 
