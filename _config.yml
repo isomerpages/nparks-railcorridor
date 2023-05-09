@@ -52,8 +52,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nparks-railcorridor-staging.netlify.app
-prod: https://nparks-railcorridor-prod.netlify.app
+staging: https://staging.d1k56cvvb3wz7i.amplifyapp.com/
+prod: https://master.d1k56cvvb3wz7i.amplifyapp.com/
 is_government: true
 shareicon: /images/isomer-logo.svg
 facebook-pixel: ""
