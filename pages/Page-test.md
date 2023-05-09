@@ -1,4 +1,4 @@
 ---
 title: Page Test
-permalink: /Page-test
+permalink: /page-test/
 ---
