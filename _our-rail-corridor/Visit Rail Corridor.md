@@ -50,7 +50,7 @@ For more information about Rail Corridor North and how to get there, please [cli
 
 For more information about Bukit Timah Railway Station and how to get there, please [click here](/bukit-timah-railway-station/) 
 
-The Rail Corridor leads to several nature parks around Bukit Timah. Pleaser refer to [A Guide to Hiking Trails around Bukit Timah](https://go.gov.sg/trailsguidebt) and observe the park etiquettes when exploring the trails.
+The Rail Corridor leads to several nature parks around Bukit Timah. Please refer to [A Guide to Hiking Trails around Bukit Timah](https://go.gov.sg/trailsguidebt) and observe the park etiquettes when exploring the trails.
 
-Let's be socially responsible and let everyone enjoy our green spaces!
+Let's be socially responsible and let everyone enjoy our green spaces !
 ![](/images/Rail%20Corridor_pls%20dismount.png)
