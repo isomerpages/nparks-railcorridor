@@ -45,7 +45,7 @@ There are many access points into the Rail Corridor. Please refer to the maps be
 
 **Rail Corridor North and South**
 
-![Rail Corridor North Map as of 3 Nov 23](/images/rail%20corridor%20north%20(3%20nov%2023).JPG)
+![Rail Corridor North Map as of 3 Nov 23](/images/rail%20corridor%20north%20map%20as%20of%2003%20nov%202023.JPG)
 ![Rail Corridor South Map as of 3 Nov 23](/images/rail%20corridor%20south%20map%20as%20of%203%20nov%202023.jpg)
 
 For more information about Rail Corridor North and how to get there, please [click here](latest-news/important-notices/opening-rc-north/). 
