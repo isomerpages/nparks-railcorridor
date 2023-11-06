@@ -43,8 +43,6 @@ Do note that when planning to go outdoors, you may dial 65427788 for weather for
 #### **Getting There**
 There are many access points into the Rail Corridor. Please refer to the maps below to plan your visit to the Rail Corridor.
 
-**Rail Corridor North and South**
-
 ![Rail Corridor North Map as of 3 Nov 23](/images/rail%20corridor%20north%20map%20as%20of%2003%20nov%202023.JPG)
 ![Rail Corridor South Map as of 3 Nov 23](/images/rail%20corridor%20south%20map%20as%20of%203%20nov%202023.jpg)
 
