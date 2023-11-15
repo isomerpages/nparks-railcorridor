@@ -3,9 +3,10 @@ title: Rail Corridor (North)
 permalink: /our-rail-corridor/rc-north/
 description: Rail Corridor North
 image: ""
+variant: markdown
 ---
 Rail Corridor (North) is now open !
-![Access points for Rail Corridor (North)](/images/RC%20North/rail%20corridor%20north%20map_25042023.jpg)
+![](/images/rail%20corridor%20north%20map%20as%20of%2003%20nov%202023.JPG)
 
 Offering you more than 21 km of continuous connectivity along the Rail Corridor, you can now explore Rail Corridor from opposite Kranji MRT station to Spooner Road – all the way from north to south with this new opening. There are now more than 30 access paths connecting neighboring residents and communities to the Rail Corridor!
 
@@ -40,7 +41,7 @@ The nearest toilets would be at Kranji MRT Station and Singapore Turf Club.
 *Event space booking:*
 ![](/images/Kranji%20&amp;%20Hillview/Kranji%20Node.jpg)
 For organised group activities at the Rail Corridor, a [permit](https://www.nparks.gov.sg/services/parks-permits-and-applications) is required for groups of 30 and above.
-For booking enquiries, please write to [Amanda_Ng@nparks.gov.sg](Amanda_NG@nparks.gov.sg), [Rachel_Loh@nparks.gov.sg](Rachel_LOH@nparks.gov.sg) and [Margarette_Chang@nparks.gov.sg](Margarette_CHANG@nparks.gov.sg). 
+For booking enquiries, please write to [Rachel_Loh@nparks.gov.sg](Rachel_LOH@nparks.gov.sg) and [Margarette_Chang@nparks.gov.sg](Margarette_CHANG@nparks.gov.sg). 
 
 
 ![Hillview Bridge](/images/Kranji%20&amp;%20Hillview/Hillview%20Bridge.jpg)
