@@ -2,6 +2,7 @@
 title: Biodiversity & Greenery
 permalink: /biodiversity/
 description: ""
+variant: markdown
 ---
 ![rail corridor greenery](/images/RC%20Central/Central_path4_IMG-20210521-WA0011.jpg)
 
@@ -14,3 +15,20 @@ Explore the [educational resources](/educational-resources/) developed by [Frien
 
 
 Visit our [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to browse our online database for plants and animals found in Singapore.
+
+
+**Habitat Enhancement Plans for Rail Corridor**
+
+The northern, central, and southern stretches of Rail Corridor are designed to have their own unique character. The north highlights the different habitats you can see along the stretch, from grasslands to back mangroves, whereas central serves as Rail Corridor’s biodiversity core with the planting of forest species, while the south focuses on bringing out the heritage of Rail Corridor through the landscape. 
+ 
+To highlight this, a variety of native tree species have been planted at the different stretches of Rail Corridor. An example would be the *Barringtonia racemosa*, a critically endangered mangrove forest species that is the food plant for caterpillars of the Atlas Moth (*Attacaus atlus*), which has been planted at the northern stretch. As Rail Corridor (Central) serves as our biodiversity core, native forest species such as *Radermachera quadripinnata subsp. lobbii*, a critically endangered species, that serves as a food plant for the Raffles Banded Langer (*Presbythis fermoralis fermoralis*), has been planted. To pay homage to our heritage in Rail Corridor (South), native heritage fruit trees such as *Garcinia atroviridis*, a critically endangered species that is more commonly known as Assam Gelugor, has been planted. Its fruits are used as a seasoning in cooking.
+
+![RC Planting Plan Overview 13 Dec 23](/images/RC_Planting_Plan_Overview_20231213.png)
+
+      
+Apart from trees, a variety of shrubs at Rail Corridor (South) will be planted to highlight the heritage of Rail Corridor through the landscape. Each section will have shrubs planted that are reminiscent of a particular decade. Park users may journey through time, from the 1960s to 2010s, as they walk along the Rail Corridor.
+
+![RC South Shrub Planting 13 Dec 23](/images/RC_South_Planting_Plan_20231213.png)
+         
+
+Some examples of shrub species includes _Hibiscus rosa-sinensis_ (‘60s), _Arundina gramniflora_ (‘70s), _Ixora javanica_ (‘80s), _Lantana camara_ (‘90s), _Melostoma malabathricum_ (2000s), and _Spathoglottis plicata_ (2010s).
