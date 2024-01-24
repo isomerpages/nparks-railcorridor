@@ -1,0 +1,10 @@
+logo: /images/nparks logo.png
+links:
+  - title: Our Rail Corridor
+    collection: our-rail-corridor
+  - title: Enhancement Plans
+    collection: enhancement-plans
+  - title: Latest News
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/

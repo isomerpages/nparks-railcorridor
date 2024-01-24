@@ -1,0 +1,61 @@
+title: NParks Rail Corridor
+url: https://www.railcorridor.nparks.gov.sg
+favicon: /images/nparks logo.png
+colors:
+  primary-color: "#3d8965"
+  secondary-color: "#7f674e"
+  media-colors:
+    - title: media-color-one
+      color: "#36312a"
+    - title: media-color-two
+      color: "#7a9a01"
+    - title: media-color-three
+      color: "#ff9e1b"
+    - title: media-color-four
+      color: "#3d8965"
+    - title: media-color-five
+      color: "#00838f"
+resources_name: latest-news
+description: The Rail Corridor is a continuous green passage that allows
+  wildlife movement between major green spaces. It also serves as a recreational
+  corridor for all members of the public.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d1k56cvvb3wz7i.amplifyapp.com/
+prod: https://master.d1k56cvvb3wz7i.amplifyapp.com/
+is_government: true
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
