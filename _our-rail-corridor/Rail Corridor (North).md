@@ -41,7 +41,7 @@ The nearest toilets would be at Kranji MRT Station and Singapore Turf Club.
 *Event space booking:*
 ![](/images/Kranji%20&amp;%20Hillview/Kranji%20Node.jpg)
 For organised group activities at the Rail Corridor, a [permit](https://www.nparks.gov.sg/services/parks-permits-and-applications) is required for groups of 30 and above.
-For booking enquiries, please write to [Rachel_Loh@nparks.gov.sg](Rachel_LOH@nparks.gov.sg) and [Margarette_Chang@nparks.gov.sg](Margarette_CHANG@nparks.gov.sg). 
+For booking enquiries, please write to [Rachel_Loh@nparks.gov.sg](Rachel_LOH@nparks.gov.sg) and [Margarette_Chang@nparks.gov.sg](Margarette_CHANG@nparks.gov.sg)  and Seah_Yi_Xuan@nparks.gov.sg
 
 
 ![Hillview Bridge](/images/Kranji%20&amp;%20Hillview/Hillview%20Bridge.jpg)
