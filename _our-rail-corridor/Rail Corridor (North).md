@@ -5,7 +5,6 @@ description: Rail Corridor North
 image: ""
 variant: tiptap
 ---
-<p>Rail Corridor (North) is now open !</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rail%20corridor%20north%20map%20as%20of%2003%20nov%202023.JPG">
 </div>
