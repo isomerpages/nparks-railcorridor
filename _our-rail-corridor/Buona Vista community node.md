@@ -83,8 +83,10 @@ space that can be used for a variety of activities and events. Sports enthusiast
 can make use of the anti-skid painted surface as a high intensity interval
 training (HIIT) circuit while residents and those working in the area can
 utilise the space for community bonding activities.</p>
-<p><strong>Community lawn</strong>The 500 sqm community lawn provides a flexible
-outdoor event space amidst nature.</p>
+<p><strong>Community lawn</strong>
+</p>
+<p>The 500 sqm community lawn provides a flexible outdoor event space amidst
+nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Communitylawn.jpg">
 </div>
