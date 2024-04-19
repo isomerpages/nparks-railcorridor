@@ -2,8 +2,8 @@ collections:
   our-rail-corridor:
     output: true
     order:
-      - Buona Vista community node.md
       - Visit Rail Corridor.md
+      - Buona Vista community node.md
       - Bukit Timah Railway Station.md
       - Rail Corridor (North).md
       - Biodiversity & Greenery.md
