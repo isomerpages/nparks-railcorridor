@@ -4,7 +4,7 @@ permalink: /buona-vista-community-node/
 variant: tiptap
 description: ""
 ---
-<p>The Buona Vista community node is now open!</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BV_Node_intro_picture.jpg">
