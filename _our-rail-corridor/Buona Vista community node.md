@@ -61,6 +61,7 @@ encourage children to reconnect with nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seniorsadultsfitnessarea1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fitnessadultsfitnessarea2.jpg">
 </div>
