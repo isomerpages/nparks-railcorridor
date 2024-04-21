@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>The Buona Vista community node is now open!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BV_Node_intro_picture.jpg">
 </div>
