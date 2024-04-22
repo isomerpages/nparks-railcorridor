@@ -65,7 +65,7 @@ encourage children to reconnect with nature.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seniorsadultsfitnessarea1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fitnessadultsfitnessarea2.jpg">
 </div>
 <p>The new fitness areas at the Buona Vista community node are accessible
 via barrier-free ramps and friendly to use for adults and seniors.</p>
