@@ -58,9 +58,9 @@ please <a href="latest-news/important-notices/opening-rc-north/" rel="noopener n
 <p>For more information about Bukit Timah Railway Station and how to get
 there, please <a href="/bukit-timah-railway-station/" rel="noopener noreferrer nofollow" target="_blank">click here.</a>
 </p>
-<p>For more information on engagements at Rail Corridor (South) to learn
-about programmes by The Everyday Museum, a public art initiative by Singapore
-Art Museum, please <a href="https://railcorridor.nparks.gov.sg/educational-resources/" rel="noopener nofollow" target="_blank">click here</a>.</p>
+<p>For more information on engagements at Rail Corridor (South) and programmes
+by The Everyday Museum, a public art initiative by Singapore Art Museum,
+please <a href="https://railcorridor.nparks.gov.sg/educational-resources/" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <p>The Rail Corridor leads to several nature parks around Bukit Timah. Please
 refer to <a href="https://go.gov.sg/trailsguidebt" rel="noopener noreferrer nofollow" target="_blank">A Guide to Hiking Trails around Bukit Timah</a> and
 observe the park etiquettes when exploring the trails.</p>
