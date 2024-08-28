@@ -28,8 +28,8 @@ colonial railway to wildlife corridor and recreational trail through the
 works of three artists: Sookoon Ang, Hilmi Johandi, and Tan Pin Pin.</p>
 <p>Presented by The Everyday Museum, a public art initiative by SAM,&nbsp;our
 monthly public art tours aim to expound on the diverse perspectives <em>Singapore Deviation: Wander with Art through the Rail Corridor</em>&nbsp;offers
-on ~of~ this historic site. Free with registration, sign up for the tour
-via Peatix <a href="https://publicarttour-singaporedeviation3.peatix.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+on this historic site. Free with registration, sign up for the tour via
+Peatix <a href="https://publicarttour-singaporedeviation3.peatix.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Speaking of which – Rail Corridor: A Living Blueprint</strong>
 </p>
 <p><em>Speaking of which</em>&nbsp;is a series of self-guided audio trails
@@ -42,13 +42,5 @@ old railway line has played host to through archival records and oral interviews
 interspersed with commissioned audio works.</p>
 <p><em>Speaking of which</em>&nbsp;is commissioned by The Everyday Museum,
 a public art initiative by Singapore Art Museum, in partnership with the
-National Archives of Singapore. Find out more <a href="https://www.theeverydaymuseum.sg/event/a-living-blueprint/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>--</p>
-<p><strong>About The Everyday Museum:</strong> The Everyday Museum is a public
-art initiative by Singapore Art Museum that commissions diverse art projects
-and programmes to create physical and virtual nodes for engagement and
-interaction, shaping cultural spaces for and with communities. Dedicated
-to supporting artistic practice in public spaces, The Everyday Museum is
-a platform for creative production and experimentation that transforms
-everyday experiences into meaningful encounters and offers new perspectives
-on the conditions of our time.</p>
+National Archives of Singapore. Find out more <a href="https://www.theeverydaymuseum.sg/event/a-living-blueprint/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
