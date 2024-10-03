@@ -7,7 +7,7 @@ description: BTRS
 image: ""
 variant: markdown
 ---
-The Bukit Timah Railway Station building is closed for maintenance works. The works are estimated to be completed by 30 September 2024. For the safety of all park users, please do not enter the building.
+The Bukit Timah Railway Station building is closed for maintenance works. The works are estimated to be completed by 31 October 2024. For the safety of all park users, please do not enter the building.
 
 Please note that the rest of the Bukit Timah Railway Station node is open, including F&B.
 
