@@ -46,12 +46,12 @@ please&nbsp;<a href="https://www.nparks.gov.sg/services/parks-permits-and-applic
 <h4><strong>Getting There</strong></h4>
 <p>There are many access points into the Rail Corridor. Please refer to the
 maps below to plan your visit to the Rail Corridor.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RC North Map as of 4 June 2024" src="/images/RC_North_20240604.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RC South Map as of 4 June 2024" src="/images/RC_South_20240604.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">
 </div>
 <p>For more information about Rail Corridor (North) and how to get there,
 please <a href="latest-news/important-notices/opening-rc-north/" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
