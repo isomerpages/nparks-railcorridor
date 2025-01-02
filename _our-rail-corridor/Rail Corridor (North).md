@@ -5,8 +5,9 @@ description: Rail Corridor North
 image: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rail%20corridor%20north%20map%20as%20of%2003%20nov%202023.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
 </div>
 <p>Offering you more than 21 km of continuous connectivity along the Rail
 Corridor, you can now explore Rail Corridor from opposite Kranji MRT station
