@@ -10,12 +10,12 @@ variant: tiptap
 <p>Two sections of the Rail Corridor (North) are diverted for development
 works. Please use the alternative routes to continue along your journey.</p>
 <p><strong>Closure of trail between Hillview Road and Opp Dairy Farm Road</strong>.</p>
-<p>Works are expected to be completed by Q4 2024. For more information on
+<p>Works are expected to be completed by Q1 2025. For more information on
 the closure of trail, please <a href="/files/RC%20Notices/LTA%20diversion%20notice.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <p><strong>Diversion of trail between Choa Chu Kang Road and Stagmont Ring Road</strong>
 </p>
 <p>Due to enhancement works, the Rail Corridor between Choa Chu Kang Road
 and Stagmont Ring Road has been diverted. Works are expected to be completed
 by 2026. For more information, please <a href="/files/RC%20Notices/17%20Feb%202023%20Diversion%20Notice%20for%20Rail%20Corridor.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
-<p>If you have any queries, please contact <strong>Rachel_LOH@nparks.gov.sg, Margarette_CHANG@nparks.gov.sg, or Faith_WONG@nparks.gov.sg.</strong>
+<p>If you have any queries, please contact <strong><a href="mailto:Margarette_CHANG@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Margarette_CHANG@nparks.gov.sg</a> or <a href="mailto:Faith_WONG@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Faith_WONG@nparks.gov.sg</a>.</strong>
 </p>
