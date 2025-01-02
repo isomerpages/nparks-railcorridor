@@ -52,7 +52,7 @@ Singapore Turf Club.</p>
 <p>For organised group activities at the Rail Corridor, a <a href="https://form.gov.sg/62131aa9e5b4960013e1d2a5" rel="noopener noreferrer nofollow" target="_blank">permit</a> is
 required for groups of 30 and above. For booking enquiries, please write
 to <a href="mailto:Margarette_Chang@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Margarette_Chang@nparks.gov.sg </a>and
-<a href="mailto:Seah_Yi_Xuan@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Faith_Wong@nparks.gov.sg</a>
+<a href="mailto:Faith_Wong@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Faith_Wong@nparks.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hillview Bridge" src="/images/Kranji%20&amp;%20Hillview/Hillview%20Bridge.jpg">
