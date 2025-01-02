@@ -40,8 +40,8 @@ forecasts.</p>
 <h4><strong>Parks Permits and Applications</strong></h4>
 <p>·&nbsp; &nbsp; &nbsp; &nbsp; A permit is required to conduct any activity
 that involves 30 or more participants along Rail Corridor. For more information,
-please&nbsp;<a href="https://www.nparks.gov.sg/services/parks-permits-and-applications" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; To apply for on-location filming, please&nbsp;
+please&nbsp;<a href="https://form.gov.sg/62131aa9e5b4960013e1d2a5" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; To apply for on-location filming, please
 <a href="https://www.nparks.gov.sg/services/parks-permits-and-applications" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <h4><strong>Getting There</strong></h4>
 <p>There are many access points into the Rail Corridor. Please refer to the
@@ -54,7 +54,7 @@ maps below to plan your visit to the Rail Corridor.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">
 </div>
 <p>For more information about Rail Corridor (North) and how to get there,
-please <a href="latest-news/important-notices/opening-rc-north/" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+please <a href="https://railcorridor.nparks.gov.sg/our-rail-corridor/rc-north/" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <p>For more information about Bukit Timah Railway Station and how to get
 there, please <a href="/bukit-timah-railway-station/" rel="noopener noreferrer nofollow" target="_blank">click here.</a>
 </p>
