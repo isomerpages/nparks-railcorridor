@@ -11,13 +11,6 @@ art initiative by Singapore Art Museum.</p>
 </p>
 <p>Designed by The Rail Explorers from Hwa Chong Institution, <a href="https://www.nparks.gov.sg/-/media/rail-corridor/rc-resources/trifold-guidesheet.ashx" rel="noopener noreferrer nofollow" target="_blank">THE RAIL CORRIDOR GUIDE SHEET</a> introduces
 you to the history, iconic sites, flora and fauna of the Rail Corridor.</p>
-<p><strong>RailWild</strong>
-</p>
-<p>Developed by Tanvi Gupta, <a href="http://railwild.org/" rel="noopener noreferrer nofollow" target="_blank">RAILWILD</a> introduces you to the world of
-local biodiversity through an easy identification interface. Covering 93
-different species found along the Rail Corridor, RailWild guides users
-through the identification process by prompting them to making a series
-of observations, eventually leading to the species of interest.</p>
 <p><strong>Singapore Deviation: Wander with Art through the Rail Corridor</strong>
 </p>
 <p>Embark on an artful journey through the iconic Rail Corridor with Singapore
