@@ -12,7 +12,7 @@ variant: tiptap
 <p>Offering you more than 21 km of continuous connectivity along the Rail
 Corridor, you can now explore Rail Corridor from opposite Kranji MRT station
 to Spooner Road – all the way from north to south with this new opening.
-There are now more than 30 access paths connecting neighboring residents
+There are now more than 50 access paths connecting neighboring residents
 and communities to the Rail Corridor!</p>
 <p>With this new opening, you may also consider trying out this new connectivity
 via the newly minted Kranji node or Hillview Bridge. Please read on for
