@@ -35,8 +35,8 @@ fauna from a distance.</p>
 <p>For safety, during and immediately after bad weather, please seek cover
 at the nearest shelter available and avoid entering forested areas, including
 nature reserves and nature parks.</p>
-<p>Do note that when planning to go outdoors, you may dial 65427788 for weather
-forecasts.</p>
+<p>Do note that when planning to go outdoors, you may dial <u>65427788</u> for
+weather forecasts.</p>
 <h4><strong>Parks Permits and Applications</strong></h4>
 <p>·&nbsp; &nbsp; &nbsp; &nbsp; A permit is required to conduct any activity
 that involves 30 or more participants along Rail Corridor. For more information,
