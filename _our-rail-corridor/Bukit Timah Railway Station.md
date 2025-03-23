@@ -2,6 +2,7 @@
 title: Bukit Timah Railway Station
 permalink: /bukit-timah-railway-station/
 description: Rail Corridor Bukit Timah Railway Station
+variant: markdown
 ---
 ![rail corridor](/images/RC%20BTRS/RC%20BTRS%20-%20Maggie%20Lim.jpg)
 *Photo credit: Maggie Lim*
@@ -29,7 +30,7 @@ To the front of the building, you can find more restored features, such as stati
 ![staff quarters](/images/RC%20BTRS/Staff%20Quarters.jpg)
 The conserved Railway Staff Quarters is a former staff housing block which has been repurposed into a café, called ['1932 STORY'](https://www.instagram.com/1932story/) with a rustic, relaxed ambience. Key architectural elements of the building were also restored, and improvements made to make the building more accessible.
 
-It is open to public daily, from 9am to 9pm. For more information on the café, click [HERE](https://www.nparks.gov.sg/activities/dining/tenants).
+It is open to public daily, from 9am to 9pm. For more information on the café, click [HERE](https://www.nparks.gov.sg/visit/activities/dining/dining-outlets).
  
 
 #### **Kampung Garden / Herb and Spice Garden**
