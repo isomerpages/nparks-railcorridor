@@ -42,7 +42,7 @@ forecasts.</p>
 that involves 30 or more participants along Rail Corridor. For more information,
 please&nbsp;<a href="https://form.gov.sg/62131aa9e5b4960013e1d2a5" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <p>·&nbsp; &nbsp; &nbsp; &nbsp; To apply for on-location filming, please
-<a href="https://www.nparks.gov.sg/services/parks-permits-and-applications" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+<a href="https://www.nparks.gov.sg/services/apply-on-location-filming-permit" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <h4><strong>Getting There</strong></h4>
 <p>There are many access points into the Rail Corridor. Please refer to the
 maps below to plan your visit to the Rail Corridor.</p>
