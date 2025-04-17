@@ -103,9 +103,6 @@ We hope the information will be useful.</p>
 </div>
 <p>Please click <a href="/files/RC%20Notices/Diversion%20Notice%20for%20Rail%20Corridor%20North.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the diversion between Choa Chu Kang Road and Villa Verde Park.</p>
-<p>Please click <a href="/files/RC%20Notices/LTA%20diversion%20notice.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the diversion between Hillview Road and Opp CHIJ Our Lady Queen of
-Peace.</p>
 <p>To continue from Bukit Timah Railway Station to Spooner Road via Rail
 Corridor (South), please <a href="https://railcorridor.nparks.gov.sg/visit-rail-corridor/" rel="noopener noreferrer nofollow" target="_blank">click</a> to
 view the access points along Rail Corridor (South) and also to read more
