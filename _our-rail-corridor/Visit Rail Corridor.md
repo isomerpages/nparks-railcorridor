@@ -48,7 +48,7 @@ please&nbsp;<a href="https://form.gov.sg/62131aa9e5b4960013e1d2a5" rel="noopener
 maps below to plan your visit to the Rail Corridor.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250417_RC_North_Central_Map.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">
