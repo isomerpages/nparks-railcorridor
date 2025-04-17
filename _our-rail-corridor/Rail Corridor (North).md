@@ -6,8 +6,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250417_RC_North_Central_Map.jpg">
 </div>
 <p>Offering you more than 21 km of continuous connectivity along the Rail
 Corridor, you can now explore Rail Corridor from opposite Kranji MRT station
