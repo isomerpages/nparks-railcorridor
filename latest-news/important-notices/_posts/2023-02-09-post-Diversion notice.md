@@ -7,11 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Two sections of the Rail Corridor (North) are diverted for development
-works. Please use the alternative routes to continue along your journey.</p>
-<p><strong>Closure of trail between Hillview Road and Opp Dairy Farm Road</strong>.</p>
-<p>Works are expected to be completed by Q1 2025. For more information on
-the closure of trail, please <a href="/files/RC%20Notices/LTA%20diversion%20notice.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+<p>A section of the Rail Corridor (North) isdiverted for development works.
+Please use the alternative routes to continue along your journey.</p>
 <p><strong>Diversion of trail between Choa Chu Kang Road and Stagmont Ring Road</strong>
 </p>
 <p>Due to enhancement works, the Rail Corridor between Choa Chu Kang Road
