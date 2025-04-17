@@ -1,5 +1,4 @@
 collections:
   enhancement-plans:
     output: true
-    order:
-      - Improvement Works Opposite Dairy Farm Road.md
+    order: []
