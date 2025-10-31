@@ -15,7 +15,7 @@ along your journey.</p>
 Barat access to Henderson Road access): 31st July 2026</p>
 <p>Expected completion date of phase 2 of improvement works (Henderson Road
 access to Blk 138 Jalan Bukit Merah access): 31st July 2027</p>
-<p>For more information, please <a href="/files/RC_South_PBA_trail_repair_closure_sign.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+<p>For more information, please <a href="/files/RC Notices/RC_South_PBA_trail_repair_closure_sign.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <p>If you have any queries, please contact margarette_chang@nparks.gov.sg
 or fadzleen_arriffin@nparks.gov.sg.</p>
 <p></p>
