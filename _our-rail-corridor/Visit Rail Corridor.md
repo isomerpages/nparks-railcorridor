@@ -8,9 +8,30 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="rail corridor sg" src="/images/RC%20Central/Central%20overview_IMG-20210323-WA0022.jpg">
 </div>
 <h4><strong>About Rail Corridor</strong></h4>
-<p>The 24 km long Rail Corridor is a continuous green passage that allows
-wildlife movement between major green spaces. It also serves as a recreational
-corridor for&nbsp;all members of the public.</p>
+<p>The Rail Corridor was conceptualised together with various stakeholders,
+including members of public, as a 24-kilometre ecological route connecting
+Woodlands to Tanjong Pagar, which would allow wildlife movement between
+major green spaces along the route. It would also serve as a recreational
+corridor for members of the public to engage in activities such as hiking
+and cycling. To accommodate such diverse recreational uses while preserving
+the area’s rustic charm, the Rail Corridor provides two distinct types
+of trails:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Porous Bound Aggregate (PBA) Trail: The southern stretch, from Rifle Range
+Road to Tanjong Pagar, features this trail, which is composed of natural
+materials such as gravel and crushed stone, bound together with a permeable
+binder. The porous nature of PBA reduces the risk of puddles after rain
+and provides visitors with a connection to nature while still reflecting
+the urban landscape.</p>
+</li>
+<li>
+<p>Grass and Gravel Trail: The stretch from Rifle Range Road to Kranji features
+a more naturalistic trail made of grass and gravel, blending with the surrounding
+vegetated areas. It offers a more rustic and immersive experience for visitors
+to engage closely with nature.</p>
+</li>
+</ol>
 <p>As it is an important ecological corridor, the Rail Corridor is not lit
 at night to facilitate nocturnal wildlife movement. Lighting is only provided
 at certain access points, essential walking paths and benches leading to
