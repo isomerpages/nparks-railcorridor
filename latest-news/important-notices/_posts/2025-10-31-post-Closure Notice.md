@@ -28,7 +28,7 @@ access to Blk 138 Jalan Bukit Merah access): 31st July 2027</p>
 </p>
 <p><a href="mailto:clara_choo@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">clara_choo@nparks.gov.sg</a>
 </p>
-<p><a href="mailto:ong_bo_qing@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_bo_qing@nparks.gov.sg</a> 
+<p><a href="mailto:ong_bo_qing@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_bo_qing@nparks.gov.sg</a>
 </p>
 <p></p>
 <p></p>
