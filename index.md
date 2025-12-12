@@ -6,11 +6,9 @@ description: The Rail Corridor is a continuous green passage that allows
   corridor for all members of the public.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. For more
-  information on how to protect yourself against scams, please visit
-  www.scamshield.gov.sg.
+notification: A section of the Rail Corridor (South) between Jalan Kilang Barat
+  to Blk 138 Jalan Bukit Merah  is closed from 7 November 2025 for trail
+  improvement works.
 sections:
   - hero:
       title: Our Rail Corridor
@@ -28,6 +26,16 @@ sections:
         - title: Enhancement Plans
           description: ""
           url: enhancement-plans/btdf/
-  - resources:
-      title: Latest News
+  - announcements:
+      title: Closure Notice
+      id: announcements
+      announcement_items:
+        - title: Trail Improvement Works
+          date: 31 October 2025
+          announcement: A section of the Rail Corridor (South) between Jalan Kilang Barat
+            to Blk 138 Jalan Bukit Merah (including the accesses along this
+            stretch) is closed from 7 November 2025 for trail improvement works.
+            Please use the alternative routes to continue along your journey.
+          link_text: For more information, please click here.
+          link_url: https://railcorridor.nparks.gov.sg/closure-notice/
 ---
