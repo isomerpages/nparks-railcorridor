@@ -26,6 +26,9 @@ reflecting the urban landscape.</p>
 features a more naturalistic trail made of grass and gravel, blending with
 the surrounding vegetated areas. It offers a more rustic and immersive
 experience for visitors to engage closely with nature.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photos to compare the two types of trails that can found in Rail Corridor" src="/images/PBA_vs_GG.png">
+</div>
 <p>As it is an important ecological corridor, the Rail Corridor is not lit
 at night to facilitate nocturnal wildlife movement. Lighting is only provided
 at certain access points, essential walking paths and benches leading to
@@ -33,6 +36,8 @@ the public restrooms and Bukit Timah Railway Station building and Railway
 Staff Quarters. &nbsp;For safety, we encourage&nbsp;visitors&nbsp;to exit
 the Rail Corridor by nightfall, and to take extra care if you are still
 within Rail Corridor when it gets dark.</p>
+<p></p>
+<p></p>
 <h4><strong>Park Etiquette</strong></h4>
 <p>For an enjoyable experience along the Rail Corridor, here are some simple
 tips:</p>
