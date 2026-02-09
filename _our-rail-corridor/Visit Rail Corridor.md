@@ -26,8 +26,11 @@ reflecting the urban landscape.</p>
 features a more naturalistic trail made of grass and gravel, blending with
 the surrounding vegetated areas. It offers a more rustic and immersive
 experience for visitors to engage closely with nature.</p>
+<p>Click <a href="/files/RC Notices/Design_C.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more info.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photos to compare the two types of trails that can found in Rail Corridor" src="/images/PBA_vs_GG.png">
+<img style="width: 100%" height="auto" width="100%" alt="Difference between PBA Trail and Grass and Gravel Trail" src="/images/PBA_vs_GG.png">
 </div>
 <p>As it is an important ecological corridor, the Rail Corridor is not lit
 at night to facilitate nocturnal wildlife movement. Lighting is only provided
