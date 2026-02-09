@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Closure of trail between  Blk 138 Jalan Bukit Merah to Spooner Road </strong></h4>
+<h4><strong>Closure of trail between Blk 138 Jalan Bukit Merah to Spooner Road</strong></h4>
 <p>The section of Rail Corridor from Blk 138 Jalan Bukit Merah to Spooner
 Road (including the accesses along this stretch) is closed from 2 March
 2026 for trail improvement works. This closure is part of the ongoing phased
