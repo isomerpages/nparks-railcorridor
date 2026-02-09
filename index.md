@@ -38,4 +38,11 @@ sections:
             Please use the alternative routes to continue along your journey.
           link_text: For more information, please click here.
           link_url: https://railcorridor.nparks.gov.sg/closure-notice/
+        - title: Trail Improvement Works
+          date: 02 February 2026
+          announcement: A section of the Rail Corridor (South) between Blk 138 Jalan Bukit
+            Merah to Spooner Road will be closed from 2 March 2026 for Phase 2
+            improvement works.
+          link_text: For more information, please click here.
+          link_url: https://railcorridor.nparks.gov.sg/closure-notice/
 ---
