@@ -7,12 +7,11 @@ description: The Rail Corridor is a continuous green passage that allows
 image: /images/isomer-logo.svg
 permalink: /
 notification: A section of the Rail Corridor (South) between Jalan Kilang Barat
-  to Blk 138 Jalan Bukit Merah  is closed from 7 November 2025 for trail
-  improvement works.
+  to Spooner Road is closed from 7 November 2025 for trail improvement works.
 sections:
   - hero:
       title: Our Rail Corridor
-      subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
+      subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor
       background: /images/RC Central/Central_path4_IMG-20210521-WA0011 - background.jpg
       button: Plan Your Visit
       url: /visit-rail-corridor/
