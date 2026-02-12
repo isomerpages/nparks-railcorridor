@@ -11,7 +11,7 @@ notification: A section of the Rail Corridor (South) between Jalan Kilang Barat
 sections:
   - hero:
       title: Our Rail Corridor
-      subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor (Central)
+      subtitle: Celebrating Biodiversity and Heritage of our Rail Corridor
       background: /images/RC Central/Central_path4_IMG-20210521-WA0011 - background.jpg
       button: Plan Your Visit
       url: /visit-rail-corridor/
