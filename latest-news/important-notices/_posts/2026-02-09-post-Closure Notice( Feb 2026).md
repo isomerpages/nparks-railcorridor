@@ -1,6 +1,6 @@
 ---
-title: Closure Notice
-permalink: /closure-notice/
+title: Closure Notice( Feb 2026)
+permalink: /latest-news/important-notices/closure-notice-feb/
 date: 2026-02-09
 layout: post
 description: ""
@@ -16,7 +16,7 @@ July 2027.</p>
 <p>For more information, please click <a href="/files/RC Notices/RC_South_trail_closure_signs___Feb_2026__Approved_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RC South closure notice" src="/images/RC South/RC_South_Closure_Phase_2_Feb_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="RC South Closure Notice" src="/images/RC_South_trail_closure_signs__Feb10.png">
 </div>
 <p></p>
 <table style="minWidth: 25px">

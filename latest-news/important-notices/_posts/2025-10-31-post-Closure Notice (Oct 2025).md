@@ -1,6 +1,6 @@
 ---
-title: Closure Notice
-permalink: /closure-notice/
+title: Closure Notice (Oct 2025)
+permalink: /latest-news/important-notices/closure-notice-oct/
 date: 2025-10-31
 layout: post
 description: ""
