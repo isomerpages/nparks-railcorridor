@@ -13,7 +13,8 @@ Road (including the accesses along this stretch) is closed from 2 March
 2026 for trail improvement works. This closure is part of the ongoing phased
 improvement of the Rail Corridor. Phase 2 is expected to complete by 31
 July 2027.</p>
-<p>For more information, please click <a href="/files/RC Notices/RC_South_trail_closure_signs___Feb_2026__Approved_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>We understand this closure may affect your visit, please check our <a href="https://go.gov.sg/rcsouth-faq" rel="noopener nofollow" target="_blank">FAQs </a>and
+<a href="/files/RC Notices/RC_South_trail_closure_signs___Approved_Final_Feb10.pdf" rel="noopener noreferrer nofollow" target="_blank">notice</a>for more information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RC South Closure Notice" src="/images/RC_South_trail_closure_signs__Feb10.png">
