@@ -6,8 +6,11 @@ description: The Rail Corridor is a continuous green passage that allows
   corridor for all members of the public.
 image: /images/isomer-logo.svg
 permalink: /
-notification: A section of the Rail Corridor (South) between Jalan Kilang Barat
-  to Spooner Road is closed from 7 November 2025 for trail improvement works.
+notification: From 9 March 2026, a section of the Rail Corridor (South) between
+  after Henderson Road and before Spooner Road accesses is closed for Phase 2 of
+  Trail Improvement Works.  The section from Jalan Kilang Barat to Henderson
+  Road access (Phase 1) is now open. You may refer to "Latest News" for more
+  information.
 sections:
   - hero:
       title: Our Rail Corridor
