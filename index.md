@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: National Parks Board
+title: National Parks Board Rail Corridor
 description: The Rail Corridor is a continuous green passage that allows
   wildlife movement between major green spaces. It also serves as a recreational
   corridor for all members of the public.
