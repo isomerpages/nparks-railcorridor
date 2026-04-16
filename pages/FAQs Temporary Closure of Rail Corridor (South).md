@@ -7,10 +7,9 @@ description: ""
 <h2><strong>Temporary Closure of Rail Corridor (South) </strong><br><strong>– Frequently Asked Questions</strong></h2>
 <p></p>
 <h4>1. Which section of the Rail Corridor (South) is closed?</h4>
-<p>The Rail Corridor (South) is closed from Jalan Kilang Barat to Spooner
-Road, including the section between Henderson Road, Blk 138 Jalan Bukit
-Merah and Spooner Road. The affected access points are listed in the map
-below.</p>
+<p>The Rail Corridor (South) is closed from Henderson Road to Spooner Road,
+including the section between Henderson Road, Blk 138 Jalan Bukit Merah
+and Spooner Road. The affected access points are listed in the map below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="RC South Closure Map" src="/images/RC South/FAQ_1.png">
@@ -41,9 +40,9 @@ closure is part of the ongoing improvement works for the Rail Corridor.</p>
 <h4>5. When did the closure start?</h4>
 <p>The closure started in November 2025 as part of phased trail improvement
 works. From 2 March 2026, a section of the Rail Corridor (indicated in
-red) from Blk 138 Jalan Bukit Merah to Spooner Road will be closed to facilitate
-the access of heavy construction vehicles for the improvement works. This
-closure is part of the ongoing improvement works for the Rail Corridor.</p>
+red) from Henderson Road to Spooner Road will be closed to facilitate the
+access of heavy construction vehicles for the improvement works. This closure
+is part of the ongoing improvement works for the Rail Corridor.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC South/FAQ_4.png">
@@ -59,15 +58,14 @@ equipment and ensure public safety; and</p>
 expected completion dates:</p>
 <p><strong>Phase 1 </strong>(Jalan Kilang Barat to Henderson Road): 31 July
 2026</p>
-<p><strong>Phase 2 </strong>(Henderson Road to Blk 138 Jalan Bukit Merah):
-31 July 2027</p>
+<p><strong>Phase 2 </strong>(Henderson Road to Spooner Road): 31 July 2027</p>
 <p>Alternative routes are clearly marked to help users access other parts
 of the Rail Corridor during this period. We appreciate users’ understanding
 and cooperation as we work to enhance the experience on the Rail Corridor.</p>
 <h4>7. Will any part of the Rail Corridor be reopened earlier?</h4>
-<p>Yes. Currently the section from Jalan Kilang Barat to Henderson Road is
-expected to reopen by 31 March 2026, ahead of the initial expected completion
-date of 31 July 2026, subject to construction progress and site conditions.</p>
+<p>Yes. The section from Jalan Kilang Barat to Henderson Road was reopened
+on 2 March 2026, ahead of the initial expected completion date of 31 July
+2026.</p>
 <h4>8. Why do the repair works take such a long time?</h4>
 <p>The trail will be rebuilt with a stronger foundation to improve long-term
 durability. The works involve removing the existing trail surface and its
@@ -102,9 +100,10 @@ may also refer to the following <a href="https://go.gov.sg/rcsouth01" rel="noope
 </p>
 <p>We acknowledge that the alternative routes are less convenient and less
 attractive than the Rail Corridor. We have structured the works into two
-phases and will reopen the first stretch from Jalan Kilang Barat to Henderson
-Road in 3Q 2026 and will strive to complete the improvement works as soon
-as possible. We look forward to welcoming users back to the Rail Corridor.</p>
+phases and have reopened the first stretch from Jalan Kilang Barat to Henderson
+Road on 2 March 2026 and will strive to complete the improvement works
+as soon as possible. We look forward to welcoming users back to the Rail
+Corridor.</p>
 <h4>14. How will I know if there are changes to the closure timeline?</h4>
 <p>Updates will be shared on the NParks website and via physical notices
 on-site.</p>
