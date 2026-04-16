@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Closure of trail between Blk 138 Jalan Bukit Merah to Spooner Road</strong></h4>
+<h4><strong>Closure of trail between Henderson Road to Spooner Road</strong></h4>
 <p>The section of Rail Corridor from Blk 138 Jalan Bukit Merah to Spooner
 Road (including the accesses along this stretch) is closed from 2 March
 2026 for trail improvement works. This closure is part of the ongoing phased
@@ -17,7 +17,7 @@ July 2027.</p>
 <a href="/files/RC Notices/RC_South_trail_closure_signs___Approved_Final_Feb10.pdf" rel="noopener noreferrer nofollow" target="_blank">notice</a>for more information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RC South Closure Notice" src="/images/RC_South_trail_closure_signs__Feb10.png">
+<img style="width: 100%" height="auto" width="100%" alt="Closure Sign as at March 2026" src="/images/RC_Closure_Sign_March_2026_png.jpg">
 </div>
 <p></p>
 <table style="minWidth: 25px">
