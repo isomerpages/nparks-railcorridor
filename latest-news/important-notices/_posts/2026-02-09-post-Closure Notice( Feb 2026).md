@@ -8,11 +8,10 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>Closure of trail between Henderson Road to Spooner Road</strong></h4>
-<p>The section of Rail Corridor from Blk 138 Jalan Bukit Merah to Spooner
-Road (including the accesses along this stretch) is closed from 2 March
-2026 for trail improvement works. This closure is part of the ongoing phased
-improvement of the Rail Corridor. Phase 2 is expected to complete by 31
-July 2027.</p>
+<p>The section of Rail Corridor from Henderson Road to Spooner Road (including
+the accesses along this stretch) is closed from 2 March 2026 for trail
+improvement works. This closure is part of the ongoing phased improvement
+of the Rail Corridor. Phase 2 is expected to complete by 31 July 2027.</p>
 <p>We understand this closure may affect your visit, please check our <a href="https://go.gov.sg/rcsouth-faq" rel="noopener nofollow" target="_blank">FAQs </a>and
 <a href="/files/RC Notices/RC_South_trail_closure_signs___Approved_Final_Feb10.pdf" rel="noopener noreferrer nofollow" target="_blank">notice</a>for more information.</p>
 <p></p>
