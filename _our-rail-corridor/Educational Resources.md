@@ -36,4 +36,14 @@ interspersed with commissioned audio works.</p>
 <p><em>Speaking of which</em>&nbsp;is commissioned by The Everyday Museum,
 a public art initiative by Singapore Art Museum, in partnership with the
 National Archives of Singapore. Find out more <a href="https://www.theeverydaymuseum.sg/event/a-living-blueprint/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<br>
+</p>
+<p><strong>Interpretive Signages </strong>
+<br>Discover how the Rail Corridor weaves together nature, heritage and community—creating
+a unique space where biodiversity thrives alongside history and recreation
+through these curated educational posters.</p>
+<p></p>
+<p></p>
+<p>
+<br>
 </p>
