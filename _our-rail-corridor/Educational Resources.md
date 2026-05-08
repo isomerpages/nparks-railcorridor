@@ -42,7 +42,17 @@ National Archives of Singapore. Find out more <a href="https://www.theeverydaymu
 <br>Discover how the Rail Corridor weaves together nature, heritage and community—creating
 a unique space where biodiversity thrives alongside history and recreation
 through these curated educational posters.</p>
-<p></p>
+<p><u>Understanding the Rail Corridor Trails</u>
+</p>
+<p>Rail Corridor trails are shaped by their railway heritage and surrounding
+ground conditions. You’ll notice different trail surfaces here, a reflection
+of the Corridor’s history and environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One Rail Corridor, Two Trail Types" src="/images/Interpretive_Signs_RC1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Crossing Pads RC" src="/images/Interpretive_Signs_RC2.png">
+</div>
 <p></p>
 <p>
 <br>
