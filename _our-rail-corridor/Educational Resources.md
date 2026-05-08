@@ -7,22 +7,6 @@ variant: tiptap
 <p>Learn more about the Rail Corridor with these resources developed by the
 Friends of Rail Corridor and our partner, The Everyday Museum, a public
 art initiative by Singapore Art Museum.</p>
-<p><strong>The Rail Corridor Guide Sheet</strong>
-</p>
-<p>Designed by The Rail Explorers from Hwa Chong Institution, <a href="https://www.nparks.gov.sg/-/media/rail-corridor/rc-resources/trifold-guidesheet.ashx" rel="noopener noreferrer nofollow" target="_blank">THE RAIL CORRIDOR GUIDE SHEET</a> introduces
-you to the history, iconic sites, flora and fauna of the Rail Corridor.</p>
-<p><strong>Singapore Deviation: Wander with Art through the Rail Corridor</strong>
-</p>
-<p>Embark on an artful journey through the iconic Rail Corridor with Singapore
-Art Museum (SAM)’s <a href="https://www.theeverydaymuseum.sg/event/public-art-tour-singapore-deviation/" rel="noopener noreferrer nofollow" target="_blank">Public Art Tour:&nbsp;</a><em><a href="https://www.theeverydaymuseum.sg/event/public-art-tour-singapore-deviation/" rel="noopener noreferrer nofollow" target="_blank">Singapore Deviation</a></em>.
-Held on the third Saturday of every month, SAM’s public art team will take
-you on a unique exploration of the Rail Corridor’s transformation from
-colonial railway to wildlife corridor and recreational trail through the
-works of three artists: Sookoon Ang, Hilmi Johandi, and Tan Pin Pin.</p>
-<p>Presented by The Everyday Museum, a public art initiative by SAM,&nbsp;our
-monthly public art tours aim to expound on the diverse perspectives <em>Singapore Deviation: Wander with Art through the Rail Corridor</em>&nbsp;offers
-on this historic site. Free with registration, sign up for the tour via
-Peatix <a href="https://publicarttour-singaporedeviation3.peatix.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Speaking of which – Rail Corridor: A Living Blueprint</strong>
 </p>
 <p><em>Speaking of which</em>&nbsp;is a series of self-guided audio trails
@@ -42,8 +26,21 @@ National Archives of Singapore. Find out more <a href="https://www.theeverydaymu
 <br>Discover how the Rail Corridor weaves together nature, heritage and community—creating
 a unique space where biodiversity thrives alongside history and recreation
 through these curated educational posters.</p>
+<p><u>Understanding the Rail Corridor Trails</u>
+</p>
+<p>Rail Corridor trails are shaped by their railway heritage and surrounding
+ground conditions. You’ll notice different trail surfaces here, a reflection
+of the Corridor’s history and environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One Rail Corridor, Two Trail Types" src="/images/Interpretive_Signs_RC1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Crossing Pads RC" src="/images/Interpretive_Signs_RC2.png">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tread with Care" src="/images/Tread_with_Care_BTRS.png">
+</div>
 <p>
 <br>
 </p>
